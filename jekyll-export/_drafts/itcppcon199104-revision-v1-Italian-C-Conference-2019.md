@@ -1,0 +1,387 @@
+---
+id: 9162
+title: Italian C++ Conference 2019
+date: 2019-07-16T10:56:54+02:00
+author: marco
+layout: revision
+guid: https://www.italiancpp.org/2019/07/16/9104-revision-v1/
+permalink: /2019/07/16/9104-revision-v1/
+---
+<center>
+  <br /> 
+  
+  <div id='gallery-506' class='gallery galleryid-9162 gallery-columns-2 gallery-size-medium'>
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19.png'><img width="300" height="208" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19-300x208.png" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-506-9099" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19-300x208.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19-768x532.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19.png 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/01/itcppcon19-600x415.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-506-9099'>
+        Italian C++ Conference 2019 (240 attendees)
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o.jpg'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-506-9122" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64864164_2288407551473948_193599907179790336_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-506-9122'>
+        Speakers and Staff Dinner
+      </dd>
+    </dl>
+    
+    <br style="clear: both" />
+  </div>
+  
+  <br />
+</center>
+
+<p style="text-align: justify;">
+  The 4th edition of the Italian C++ Conference took place at Politecnico di Milano last June 15th.
+</p>
+
+<p style="text-align: justify;">
+  The awesome day opened with a very special keynote by <strong>Andrei Alexandrescu</strong>.
+</p>
+
+<p style="text-align: justify;">
+  The conference was attended by <strong>~240 people</strong>, 20% more than last year. The drop rate was about 23%, slightly higher than last year.
+</p>
+
+<p style="text-align: justify;">
+  As always, I have co-organized the conference with <strong>Alessandro Vergani</strong>. In addition, the staff on-site included: Guido Pederzini, Raffaele Rialdi, Illya Dudchenko, Gian Lorenzo Meocci, Federico Ficarelli. Thank you guys!
+</p>
+
+<p style="text-align: justify;">
+  Some news: first of all, the conference was hosted for the first time at <a href="https://www.polimi.it/">Politecnico di Milano</a>, which I would like to thank. In addition, since I have recently co-founded a not-for-profit association &#8211; <a href="https://communitycrumbs.org/">Community Crumbs</a> &#8211; attendees could optionally donate to help cover the main costs.
+</p>
+
+<p style="text-align: justify;">
+  As usual, <strong>the conference was totally free</strong>. We could rely on some companies and some donations to cover the event costs (slightly less than 8&#8217;000 €):
+</p>
+
+<li style="text-align: justify;">
+  Coffee break in the morning, lunch and some beverages in the afternoon (~4&#8217;300 €)
+</li>
+<li style="text-align: justify;">
+  Video recordings and technicians (~1&#8217;000 €)
+</li>
+<li style="text-align: justify;">
+  Air conditioning &#8211; oddly enough, that&#8217;s not free (~800 €)
+</li>
+<li style="text-align: justify;">
+  Badges, stickers and some other gadgets (~300 €)
+</li>
+<li style="text-align: justify;">
+  Staff & Speakers dinner (~800 €)
+</li>
+
+<p style="text-align: justify;">
+  I would like to thank all the companies which supported the conference: <a href="http://kdab.com/">KDAB</a>, <a href="https://conan.io/">JFrog/Conan</a>, <a href="https://www.aiv01.it/">AIV</a>, <a href="http://jetbrains.com/">JetBrains</a>, <a href="http://www.sigeosrl.com/">Sigeo</a>, <a href="https://www.develer.com/">Develer</a>, <a href="https://leica-geosystems.com/">Hexagon</a>. Moreover, a big shout-out to 32 people who donated (~10% of the total number of registrants).
+</p>
+
+<center>
+  <br /> 
+  
+  <div id='gallery-507' class='gallery galleryid-9162 gallery-columns-2 gallery-size-medium'>
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65142268_2288400801474623_4902563546132381696_o/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-507-9123" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65142268_2288400801474623_4902563546132381696_o.jpg 2016w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-507-9123'>
+        JFrog/CONAN
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64825815_2288405794807457_6934773222550274048_o/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-507-9126" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64825815_2288405794807457_6934773222550274048_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-507-9126'>
+        KDAB
+      </dd>
+    </dl>
+    
+    <br style="clear: both" />
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65189691_2288405158140854_4616980785390419968_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-507-9125" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65189691_2288405158140854_4616980785390419968_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-507-9125'>
+        JetBrains
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65197143_2288405811474122_7642016222938136576_o/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-507-9124" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65197143_2288405811474122_7642016222938136576_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-507-9124'>
+        Develer
+      </dd>
+    </dl>
+    
+    <br style="clear: both" />
+  </div>
+</center>
+
+<p style="text-align: justify;">
+  Last but not least, <strong>thanks to all the speakers and to all the attendees</strong>!
+</p>
+
+I have published several pictures of the event [here on our Facebook page](https://www.facebook.com/pg/italiancpp/photos/?tab=album&album_id=2140877512893620).
+
+Here is the beautiful &#8220;itCppCon19 Panorama&#8221;:
+
+<center>
+  <br /> <a href="https://www.italiancpp.org/2019/07/16/itcppcon19/64783746_2288416234806413_8138787980232884224_o/" rel="attachment wp-att-9127"><img loading="lazy" class="aligncenter size-full wp-image-9127" src="https://www.italiancpp.org/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o.jpg" alt="" width="3973" height="1055" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o.jpg 3973w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o-300x80.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o-768x204.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o-1024x272.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64783746_2288416234806413_8138787980232884224_o-600x159.jpg 600w" sizes="(max-width: 3973px) 100vw, 3973px" /></a>
+</center>
+
+#### Some stats
+
+We have some stats, as usual.
+
+**Attendees gender:**
+
+  * male: 224 (registered 289)
+  * female: 16 (registered 21)
+
+**Age average**: 36
+
+**Responses to the C++ survey:**
+
+<p style="text-align: justify;">
+  (less than the total number of registrants because I have discovered that registrations from Facebook bypass the survey&#8230;).<br /> <img loading="lazy" class="aligncenter size-full wp-image-9110" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats1.png" alt="" width="1126" height="820" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats1.png 1126w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats1-300x218.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats1-768x559.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats1-1024x746.png 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats1-600x437.png 600w" sizes="(max-width: 1126px) 100vw, 1126px" /> <img loading="lazy" class="aligncenter size-full wp-image-9111" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats2.png" alt="" width="1126" height="561" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats2.png 1126w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats2-300x149.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats2-768x383.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats2-1024x510.png 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats2-600x299.png 600w" sizes="(max-width: 1126px) 100vw, 1126px" /> <img loading="lazy" class="aligncenter size-full wp-image-9112" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats3.png" alt="" width="1122" height="521" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats3.png 1122w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats3-300x139.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats3-768x357.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats3-1024x475.png 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats3-600x279.png 600w" sizes="(max-width: 1122px) 100vw, 1122px" /> <img loading="lazy" class="aligncenter size-full wp-image-9113" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats4.png" alt="" width="914" height="463" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats4.png 914w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats4-300x152.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats4-768x389.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats4-600x304.png 600w" sizes="(max-width: 914px) 100vw, 914px" /> <img loading="lazy" class="aligncenter size-full wp-image-9114" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats5.png" alt="" width="920" height="446" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats5.png 920w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats5-300x145.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats5-768x372.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats5-600x291.png 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats5-680x330.png 680w" sizes="(max-width: 920px) 100vw, 920px" /> <img loading="lazy" class="aligncenter size-full wp-image-9115" src="https://www.italiancpp.org/wp-content/uploads/2019/07/itcppcon19-stats6.png" alt="" width="889" height="387" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats6.png 889w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats6-300x131.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats6-768x334.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/itcppcon19-stats6-600x261.png 600w" sizes="(max-width: 889px) 100vw, 889px" />
+</p>
+
+<h4 style="text-align: justify;">
+  Structure and contents of the event
+</h4>
+
+<p style="text-align: justify;">
+  The <strong>Italian C++ Conference 2019</strong> was a full-day event about C++ development with 1&#215;90&#8242; keynote and talks arranged in two parallel tracks throughout the whole day: 8&#215;50&#8242; talks, 2&#215;30&#8242; short talks and one 20-min featured talk during lunch.
+</p>
+
+<p style="text-align: justify;">
+  Networking and breaks: 1h before the kick-off, 2&#215;30&#8242; breaks (1 morning, 1 afternoon) and 75&#8242; lunch break. We offered a coffee break in the morning and a lunch meal. In the afternoon, beverages were available for free.
+</p>
+
+<p style="text-align: justify;">
+  The whole agenda was in English (<a href="https://github.com/italiancpp/itcppcon19">slides here</a> and <a href="https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw">videos here</a>). <span style="color: #000000;"><b>Andrei Alexandrescu </b></span>gave an awesome keynote <a href="https://youtu.be/zxwKAX7p8GE">Allegro Means Both Fast and Happy. Coincidence?</a>. Other talks were about several other topics like C++20 (Modules, Concepts, Coroutines), Cross-platform development, Link time and profile guided optimization, CONAN C++ package manager, Entity Component System pattern. Check out the <a href="https://www.italiancpp.org/event/itcppcon19">event page</a> for more details including links to videos and slides.
+</p>
+
+<div id='gallery-508' class='gallery galleryid-9162 gallery-columns-2 gallery-size-medium'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64637750_2288405241474179_475108693873000448_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9138" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64637750_2288405241474179_475108693873000448_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9138'>
+      Andrei Alexandrescu
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65013881_2288402184807818_5291945092209180672_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9137" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65013881_2288402184807818_5291945092209180672_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9137'>
+      Marc Goodner
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65243579_2288401264807910_4006978138096533504_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9136" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65243579_2288401264807910_4006978138096533504_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9136'>
+      Rainer Grimm
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65042006_2288400778141292_3802114945470955520_o/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9129" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65042006_2288400778141292_3802114945470955520_o.jpg 2016w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9129'>
+      Davide Bianchi
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64651176_2288401338141236_5550407969155317760_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9130" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64651176_2288401338141236_5550407969155317760_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9130'>
+      Michele Caini
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64996035_2288403248141045_7055222986206347264_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9131" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64996035_2288403248141045_7055222986206347264_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9131'>
+      Alberto Barbati
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64707808_2288402924807744_7562002532696850432_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9132" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64707808_2288402924807744_7562002532696850432_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9132'>
+      James Turner
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/64865784_2288402671474436_3927478138828750848_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9133" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/64865784_2288402671474436_3927478138828750848_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9133'>
+      Dmitry Kozhevnikov
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65309808_2288402541474449_8333440162990129152_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9134" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65309808_2288402541474449_8333440162990129152_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9134'>
+      Javier Garcia Sogo
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon portrait'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65277429_2288407174807319_1141122559429836800_o/'><img width="225" height="300" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65277429_2288407174807319_1141122559429836800_o-225x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9128" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65277429_2288407174807319_1141122559429836800_o-225x300.jpg 225w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65277429_2288407174807319_1141122559429836800_o-768x1024.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65277429_2288407174807319_1141122559429836800_o-600x800.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65277429_2288407174807319_1141122559429836800_o.jpg 1296w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9128'>
+      Roberto De Ioris
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2019/07/16/itcppcon19/65155016_2288402751474428_7415218628036919296_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-508-9135" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/65155016_2288402751474428_7415218628036919296_o.jpg 1728w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-508-9135'>
+      Nicolò Valigi
+    </dd>
+  </dl>
+  
+  <br style='clear: both' />
+</div>
+
+<h4 style="text-align: justify;">
+  Feedback
+</h4>
+
+<p style="text-align: justify;">
+  About 55% of attendees gave feedback. I am glad for the results:
+</p>
+
+<h4 style="text-align: justify;">
+  <img loading="lazy" class="aligncenter size-full wp-image-9141" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-1.png" alt="" width="723" height="315" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-1.png 723w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-1-300x131.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-1-600x261.png 600w" sizes="(max-width: 723px) 100vw, 723px" /> <img loading="lazy" class="aligncenter size-full wp-image-9142" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-2.png" alt="" width="715" height="311" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-2.png 715w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-2-300x130.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-2-600x261.png 600w" sizes="(max-width: 715px) 100vw, 715px" /> <img loading="lazy" class="aligncenter size-full wp-image-9143" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-3.png" alt="" width="711" height="313" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-3.png 711w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-3-300x132.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-3-600x264.png 600w" sizes="(max-width: 711px) 100vw, 711px" /> <img loading="lazy" class="aligncenter size-full wp-image-9144" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-4.png" alt="" width="711" height="311" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-4.png 711w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-4-300x131.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-4-600x262.png 600w" sizes="(max-width: 711px) 100vw, 711px" /> <img loading="lazy" class="aligncenter size-full wp-image-9145" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-5.png" alt="" width="716" height="325" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-5.png 716w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-5-300x136.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-5-600x272.png 600w" sizes="(max-width: 716px) 100vw, 716px" /> <img loading="lazy" class="aligncenter size-full wp-image-9146" src="https://www.italiancpp.org/wp-content/uploads/2019/07/feedback-6.png" alt="" width="660" height="331" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-6.png 660w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-6-300x150.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2019/07/feedback-6-600x301.png 600w" sizes="(max-width: 660px) 100vw, 660px" />
+</h4>
+
+<h4 style="text-align: justify;">
+  Best #itCppCon19 tweets
+</h4>
+
+<p style="text-align: justify;">
+  Our events come with prizes only for “best tweets”. The definition of “best tweet” is <em>unspecified </em>though…A few are listed below:
+</p>
+
+&nbsp;
+
+<blockquote class="twitter-tweet" data-lang="it">
+  <p dir="ltr" lang="en">
+    <a href="https://twitter.com/hashtag/itCppCon19?src=hash&ref_src=twsrc%5Etfw">#itCppCon19</a> Black board is still unbeatable <a href="https://t.co/ER94w9g278">pic.twitter.com/ER94w9g278</a>
+  </p>
+  
+  <p>
+    — Marco Ippolito (@MarcoIppolito) <a href="https://twitter.com/MarcoIppolito/status/1139808376295219200?ref_src=twsrc%5Etfw">15 giugno 2019</a>
+  </p>
+</blockquote>
+
+
+
+&nbsp;
+
+<blockquote class="twitter-tweet" data-lang="it">
+  <p dir="ltr" lang="en">
+    <a href="https://twitter.com/incomputable?ref_src=twsrc%5Etfw">@incomputable</a> gets feedback from the future <a href="https://twitter.com/hashtag/itCppCon19?src=hash&ref_src=twsrc%5Etfw">#itCppCon19</a> <a href="https://t.co/6LWcgZhxvc">pic.twitter.com/6LWcgZhxvc</a>
+  </p>
+  
+  <p>
+    — Alberto Barbati (@gamecentric) <a href="https://twitter.com/gamecentric/status/1139817400550002688?ref_src=twsrc%5Etfw">15 giugno 2019</a>
+  </p>
+</blockquote>
+
+
+
+&nbsp;
+
+<blockquote class="twitter-tweet" data-lang="it">
+  <p dir="ltr" lang="en">
+    so I went to <a href="https://twitter.com/hashtag/Italy?src=hash&ref_src=twsrc%5Etfw">#Italy</a> to visit <a href="https://twitter.com/hashtag/itcppcon19?src=hash&ref_src=twsrc%5Etfw">#itcppcon19</a> and all I learnt was a new english word: cloister 😉
+  </p>
+  
+  <p>
+    — Peter v. N. (@pvonnied) <a href="https://twitter.com/pvonnied/status/1139829552148971520?ref_src=twsrc%5Etfw">15 giugno 2019</a>
+  </p>
+</blockquote>
+
+
+
+<h4 style="text-align: justify;">
+  What&#8217;s next
+</h4>
+
+<p style="text-align: justify;">
+  We have already started the co-organization of the <strong>C++ Day 2019</strong>. We are just waiting for the official confirmation from the university but it should be in <strong>Parma on November 30</strong>. Save the date! The call for sessions will hopefully open in a few weeks. The event is co-organized with the <strong>Robotics Team</strong> of the <strong>University of Parma</strong>.
+</p>
+
+<p style="text-align: justify;">
+  I am looking for speakers for the second half of the season of monthly<strong> C++ meetups in Modena</strong>, hosted by <a href="https://conoscerelinux.org">ConoscereLinux</a>. If you like to give a talk, moderate a workshop, or moderate a roundtable, etc. please get in touch (myname [at] italiancpp [dot] org).
+</p>
+
+<p style="text-align: justify;">
+  I am proud of <a href="https://coding-gym.org">Coding Gym</a> and I keep on investing time and effort on this project. We have launched the format in two new cities (Bassano Del Grappa and Bari) and we have our yearly &#8220;<em>trainers summit</em>&#8221; on July 27 in Bologna.
+</p>
+
+<p style="text-align: justify;">
+  As said before, I have co-founded and I am the president of <a href="https://communitycrumbs.org">Community Crumbs</a>, a not-for-profit association. We have lots of work to do on this newborn project.
+</p>
+
+<p style="text-align: justify;">
+  That&#8217;s all. See you soon!
+</p>

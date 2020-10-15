@@ -1,0 +1,520 @@
+---
+id: 8168
+title: Italian C++ Conference 2017
+date: 2017-09-06T12:19:56+02:00
+author: marco
+layout: revision
+guid: http://www.italiancpp.org/2017/07/05/8120-autosave-v1/
+permalink: /2017/09/06/8120-autosave-v1/
+---
+<center>
+  <div id='gallery-323' class='gallery galleryid-8168 gallery-columns-2 gallery-size-medium'>
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/wp_20170617_09_59_10_pro/'><img width="300" height="169" src="http://192.168.64.2/wordpress/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro-300x169.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-323-8108" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro-300x169.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro-768x432.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro-1024x576.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro-600x338.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-323-8108'>
+        Italian C++ Conference 2017 (160 attendees)
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/20170617_174143/'><img width="300" height="161" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/20170617_174143-e1498919354723-300x161.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/20170617_174143-e1498919354723-300x161.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/20170617_174143-e1498919354723-768x413.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/20170617_174143-e1498919354723-1024x550.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/20170617_174143-e1498919354723-600x322.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+    </dl>
+    
+    <br style="clear: both" />
+  </div></p> 
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <p>
+    </center>
+  </p>
+  
+  <p style="text-align: justify;">
+    Last June 17 we had the <a href="/itcppcon17" target="_blank" rel="noopener noreferrer">Italian C++ Conference 2017</a> in Milan, one of the events totally focused on C++ organized by the <strong>Italian C++ Community</strong> that I lead and manage. <strong>~230 people signed up</strong> for the conference and about <strong>160 attended</strong>. We are really disappointed about the drop rate (~30% &#8211; higher than usual). Probably, the nationalwide transport strike that happened in Italy the day before did a number on the conference.
+  </p>
+  
+  <p style="text-align: justify;">
+    The event was hosted at <a href="http://www.unimib.it" target="_blank" rel="noopener noreferrer">Università Bicocca of Milan</a>.
+  </p>
+  
+  <p style="text-align: justify;">
+    The event was <strong>the biggest one I ever organized</strong>: <strong>160 attendees</strong>, <strong>7 sponsors</strong>, <strong>10 technical sessions</strong> splitted into two tracks, a panel on <strong>diversity and inclusion</strong> and, above all, <strong>no budget</strong>! Indeed, the event was <strong>totally free</strong> and realized thanks to the support of the sponsors and me and my staff&#8217;s willingness. I love spending a good part of my spare time (and also some nights) on organizing free meetups, activities and events for people who want to join the ecosystem.
+  </p>
+  
+  <p style="text-align: justify;">
+    I really enjoyed the event, the vibes were great and I met many new people!
+  </p>
+  
+  <p style="text-align: justify;">
+    Find <a href="https://www.facebook.com/pg/italiancpp/photos/?tab=album&album_id=1819002205081154" target="_blank" rel="noopener noreferrer">here </a>a bunch of pictures of the event.
+  </p>
+  
+  <p style="text-align: justify;">
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4 style="text-align: justify;">
+    <span style="color: #2945a4;">THANK-YOU!</span>
+  </h4>
+  
+  <p style="text-align: justify;">
+    Let me spend some kind words to thank who made the event possible:
+  </p>
+  
+  <p style="text-align: justify;">
+    My staff, in particular: <strong>Alessandro Vergani</strong>, <strong>Guido Pederzini</strong>, <strong>Marco Foco</strong>, <strong>Raffele Rialdi</strong>, <strong>Illya Dudchenko</strong>, <strong>Davide Di Gennaro</strong>, <strong>Franco Milicchio</strong>, <strong>Gian Lorenzo Meocci</strong>. You are awesome, thanks a lot!
+  </p>
+  
+  <p style="text-align: justify;">
+    Our <strong>sponsors</strong>: <a href="http://bloomberg.com">Bloomberg</a>, <a href="http://jetbrains.com">JetBrains</a>, <a href="http://kdab.com">KDAB</a>, <a href="https://www.think-cell.com">Think-Cell</a>, <a href="http://abacogroup.eu/it/index.html">Abaco Group</a>, <a href="https://recognitionrobotics.com">Recognition Robotics</a>, <a href="https://www.conan.io/">JFrog/Conan</a>. Thanks for your big support!
+  </p>
+  
+  <p style="text-align: justify;">
+    Our outstanding <strong>speakers</strong>: Michael Wong, Phil Nash, Bartosz Milewski, Jens Weller, Dietmar Kühl, Raffaele Rialdi, Davide Di Gennaro, Paola Presutto, Carlo Pescio, Stefano Cristiano. Thanks for sharing your experiences with the ecosystem!
+  </p>
+  
+  <p style="text-align: justify;">
+    <strong>Università Bicocca</strong>, for hospitality and support. Thanks a lot!
+  </p>
+  
+  <p style="text-align: justify;">
+    Last but not least, a big thanks to <strong>~160 people who attended</strong> the Italian C++ Conference 2017! You rock!
+  </p>
+  
+  <p style="text-align: justify;">
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4 style="text-align: justify;">
+    <span style="color: #2945a4;">Some stats on the audience</span>
+  </h4>
+  
+  <p style="text-align: justify;">
+    As usual, when people sign up for the event we ask a few questions about their experience with C++ and tools. Let me share some data with you.
+  </p>
+  
+  <p style="text-align: justify;">
+    <strong>Attendees age:</strong>
+  </p>
+  
+  <ul>
+    <li style="text-align: justify;">
+      oldest attendee: 64,
+    </li>
+    <li style="text-align: justify;">
+      youngest: 14,
+    </li>
+    <li style="text-align: justify;">
+      average: 36.
+    </li>
+  </ul>
+  
+  <p>
+    <strong>Attendees gender:</strong>
+  </p>
+  
+  <ul>
+    <li>
+      male: 148,
+    </li>
+    <li>
+      female: 7.
+    </li>
+  </ul>
+  
+  <p>
+    <strong>Attendees not coming from Italy</strong>: 20.
+  </p>
+  
+  <p>
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <p>
+    <strong>Responses to the C++ survey:</strong>
+  </p>
+  
+  <p>
+    <img loading="lazy" class="aligncenter wp-image-8129 size-full" src="http://www.italiancpp.org/wp-content/uploads/2017/07/Domande-sondaggio-e1498916312819.png" alt="" width="778" height="371" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-e1498916312819.png 778w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-e1498916312819-300x143.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-e1498916312819-768x366.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-e1498916312819-600x286.png 600w" sizes="(max-width: 778px) 100vw, 778px" />
+  </p>
+  
+  <p>
+    (I don&#8217;t know C++ &#8211; Novice/Student &#8211; Fluent &#8211; Expert)
+  </p>
+  
+  <p>
+    <img loading="lazy" class="aligncenter wp-image-8128 size-full" src="http://www.italiancpp.org/wp-content/uploads/2017/07/Domande-sondaggio-1-e1498916343120.png" alt="" width="776" height="369" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-1-e1498916343120.png 776w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-1-e1498916343120-300x143.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-1-e1498916343120-768x365.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-1-e1498916343120-600x285.png 600w" sizes="(max-width: 776px) 100vw, 776px" />
+  </p>
+  
+  <p>
+    (I don&#8217;t use C++ at work &#8211; Rarely &#8211; At least half of the time &#8211; Daily/Most of the time)
+  </p>
+  
+  <p>
+    <img loading="lazy" class="aligncenter wp-image-8127 size-full" src="http://www.italiancpp.org/wp-content/uploads/2017/07/Domande-sondaggio-2-e1498916282863.png" alt="" width="778" height="371" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-2-e1498916282863.png 778w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-2-e1498916282863-300x143.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-2-e1498916282863-768x366.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-2-e1498916282863-600x286.png 600w" sizes="(max-width: 778px) 100vw, 778px" />
+  </p>
+  
+  <p>
+    (C++98/C++03 &#8211; C++11 &#8211; C++14 &#8211; C++17)
+  </p>
+  
+  <p>
+    (for some unknown reason, Evenbrite normalized this histogram in 0-92 but the chart is actually based on the whole set of data).
+  </p>
+  
+  <p>
+    <img loading="lazy" class="aligncenter wp-image-8125 size-full" src="http://www.italiancpp.org/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653.png" alt="" width="776" height="377" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653.png 776w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653-300x146.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653-768x373.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653-600x291.png 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-4-e1498916382653-680x330.png 680w" sizes="(max-width: 776px) 100vw, 776px" />
+  </p>
+  
+  <p>
+    (VS &#8211; CLion &#8211; Eclipse &#8211; VSCode &#8211; DevC++ &#8211; QtCreator &#8211; VAX &#8211; ReSharper++ &#8211; Other)
+  </p>
+  
+  <p>
+    <img loading="lazy" class="aligncenter wp-image-8126 size-full" src="http://www.italiancpp.org/wp-content/uploads/2017/07/Domande-sondaggio-3-e1498916417700.png" alt="" width="778" height="414" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-3-e1498916417700.png 778w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-3-e1498916417700-300x160.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-3-e1498916417700-768x409.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/Domande-sondaggio-3-e1498916417700-600x319.png 600w" sizes="(max-width: 778px) 100vw, 778px" />
+  </p>
+  
+  <p>
+    (Boost &#8211; Qt &#8211; MFC &#8211; POCO &#8211; JUICE &#8211; Scientific Libs &#8211; Graphics Libs &#8211; Physics Libs &#8211; Other)
+  </p>
+  
+  <p>
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4>
+    <span style="color: #2945a4;">Structure and contents of the event</span>
+  </h4>
+  
+  <p>
+    The Italian C++ Conference 2017 in numbers:
+  </p>
+  
+  <ul>
+    <li>
+      8&#215;60&#8242; (parallel) technical sessions
+    </li>
+    <li>
+      1&#215;75&#8242; (plenary) keynote
+    </li>
+    <li>
+      1&#215;45&#8242; session on diversity and inclusion
+    </li>
+    <li>
+      1&#215;20&#8242; interactive panel on diversity and inclusion
+    </li>
+    <li>
+      130&#8242; allocated for breaks and networking
+    </li>
+  </ul>
+  
+  <p style="text-align: justify;">
+    We had two plenaries (the keynote and the session on Diversity and Inclusion by Microsoft) and two parallel tracks (one in Italian and the other in English).
+  </p>
+  
+  <p style="text-align: justify;">
+    Our outstanding keynote speaker <strong>Michael Wong</strong> talked about <a href="http://www.italiancpp.org/sessioni-conference-2017/#1">C++ executors to enable heterogeneous computing in tomorrow’s C++ today</a>.
+  </p>
+  
+  <p>
+    <center>
+      <img loading="lazy" class="wp-image-8130 aligncenter" src="http://www.italiancpp.org/wp-content/uploads/2017/07/DSC_0191-1024x683.jpg" alt="" width="495" height="330" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0191-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0191-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0191-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0191-600x400.jpg 600w" sizes="(max-width: 495px) 100vw, 495px" />
+    </center>
+  </p>
+  
+  <p style="text-align: justify;">
+    The other sessions:
+  </p>
+  
+  <ul>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#11">Diversity and Inclusion in Microsoft</a> by <strong>Paola Presutto</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#10">Quicker Sorting</a> by <strong>Dietmar Kühl</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#3">An overly simple C++ idiomatic pattern language for message-based product families</a> by <strong>Carlo Pescio</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#8">Boost vs Qt: What Could They Learn From Each Other?</a> by <strong>Jens Weller</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#2">Lambda out: a simple pattern for generic output</a> by <strong>Davide Di Gennaro</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#4">Monads for C++</a> by <strong>Bartosz Milewski</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#5">Costruire un bridge C++ tra NodeJS e C#</a> by <strong>Raffaele Rialdi</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#9">Functional C++ for Fun and Profit</a> by <strong>Phil Nash</strong>;
+    </li>
+    <li style="text-align: justify;">
+      <a href="http://www.italiancpp.org/sessioni-conference-2017/#6">Una libreria di rete asincrona scritta in C++ ispirata a Node.js</a> by <strong>Stefano Cristiano</strong>.
+    </li>
+  </ul>
+  
+  <p>
+    We also hosted an <strong>interactive panel on diversity and inclusion</strong> moderated by <strong>Charlotte Zhao</strong> and <strong>Andrea Chiarini</strong> from <strong>Bloomberg</strong>:
+  </p>
+  
+  <div id="attachment_8131" style="width: 512px" class="wp-caption aligncenter">
+    <a href="http://www.italiancpp.org/?attachment_id=8131" target="_blank" rel="noopener noreferrer"><img aria-describedby="caption-attachment-8131" loading="lazy" class="wp-image-8131" src="http://www.italiancpp.org/wp-content/uploads/2017/07/DSC_0244-1024x683.jpg" alt="" width="502" height="335" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0244-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0244-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0244-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0244-600x400.jpg 600w" sizes="(max-width: 502px) 100vw, 502px" /></a>
+    
+    <p id="caption-attachment-8131" class="wp-caption-text">
+      Diversity Panel by Bloomberg
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    <strong>Videos </strong>are in post-production and (I hope) <strong>will be published by the end of July</strong>. Further communication will follow.
+  </p>
+  
+  <p>
+    <center>
+      <div id='gallery-324' class='gallery galleryid-8168 gallery-columns-3 gallery-size-medium'>
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0544/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0544-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8140" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0544-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0544-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0544-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0544-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8140'>
+            Stefano Cristiano
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0537/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0537-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8139" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0537-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0537-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0537-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0537-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8139'>
+            Phil Nash
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0492/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0492-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8138" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0492-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0492-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0492-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0492-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8138'>
+            Raffaele Rialdi
+          </dd>
+        </dl>
+        
+        <br style="clear: both" />
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0481/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0481-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8137" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0481-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0481-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0481-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0481-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8137'>
+            Bartosz Milewski
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0299/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0299-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8134" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0299-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0299-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0299-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0299-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8134'>
+            Dietmar Kühl
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0436/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0436-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8136" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0436-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0436-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0436-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0436-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8136'>
+            Jens Weller
+          </dd>
+        </dl>
+        
+        <br style="clear: both" />
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0420/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0420-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8135" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0420-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0420-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0420-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0420-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8135'>
+            Davide Di Gennaro
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/_dsc1537/'><img width="300" height="199" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC1537-300x199.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-324-8132" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC1537-300x199.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC1537-768x510.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC1537-1024x680.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC1537-600x399.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-324-8132'>
+            Paola Presutto
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0194/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0194-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0194-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0194-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0194-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0194-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+        </dl>
+        
+        <br style="clear: both" />
+      </div></p> 
+      
+      <p>
+        &nbsp;
+      </p>
+      
+      <p>
+        </center>
+      </p>
+      
+      <h4>
+        <span style="color: #2945a4;">Feedback</span>
+      </h4>
+      
+      <p style="text-align: justify;">
+        This time <strong>~60% of attendees gave feedback</strong>. It&#8217;s been very good so far and I&#8217;d like showing you some charts (1 corresponds to the minimum rate, 5 to the maximum):
+      </p>
+      
+      <p>
+        <img loading="lazy" class="aligncenter size-full wp-image-8149" src="http://www.italiancpp.org/wp-content/uploads/2017/07/feedback-itcppcon17-general.png" alt="" width="726" height="318" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-general.png 726w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-general-300x131.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-general-600x263.png 600w" sizes="(max-width: 726px) 100vw, 726px" /> <img loading="lazy" class="aligncenter size-full wp-image-8148" src="http://www.italiancpp.org/wp-content/uploads/2017/07/feedback-itcppcon17-location.png" alt="" width="726" height="322" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-location.png 726w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-location-300x133.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-location-600x266.png 600w" sizes="(max-width: 726px) 100vw, 726px" /> <img loading="lazy" class="aligncenter size-full wp-image-8147" src="http://www.italiancpp.org/wp-content/uploads/2017/07/feedback-itcppcon17-organization.png" alt="" width="721" height="311" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-organization.png 721w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-organization-300x129.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-organization-600x259.png 600w" sizes="(max-width: 721px) 100vw, 721px" /> <img loading="lazy" class="aligncenter size-full wp-image-8146" src="http://www.italiancpp.org/wp-content/uploads/2017/07/feedback-itcppcon17-staff.png" alt="" width="716" height="300" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-staff.png 716w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-staff-300x126.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-staff-600x251.png 600w" sizes="(max-width: 716px) 100vw, 716px" /> <img loading="lazy" class="aligncenter size-full wp-image-8145" src="http://www.italiancpp.org/wp-content/uploads/2017/07/feedback-itcppcon17-catering.png" alt="" width="716" height="321" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-catering.png 716w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-catering-300x134.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/feedback-itcppcon17-catering-600x269.png 600w" sizes="(max-width: 716px) 100vw, 716px" />
+      </p>
+      
+      <p>
+        <span style="color: #ffffff;"> </span>
+      </p>
+      
+      <h4>
+        <span style="color: #2945a4;">#itCppCon17 and gifts</span>
+      </h4>
+      
+      <p style="text-align: justify;">
+        As usual, we set up a social contest and awarded the &#8220;best tweets&#8221; with hashtag <strong>#itCppCon17</strong>.
+      </p>
+      
+      <p>
+        <center>
+          <div id='gallery-325' class='gallery galleryid-8168 gallery-columns-3 gallery-size-medium'>
+            <dl class='gallery-item'>
+              <dt class='gallery-icon landscape'>
+                <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0572/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0572-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0572-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0572-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0572-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0572-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+              </dt>
+            </dl>
+            
+            <dl class='gallery-item'>
+              <dt class='gallery-icon landscape'>
+                <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0589/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0589-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0589-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0589-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0589-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0589-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+              </dt>
+            </dl>
+            
+            <dl class='gallery-item'>
+              <dt class='gallery-icon landscape'>
+                <a href='http://192.168.64.2/wordpress/2017/07/04/itcppcon17/dsc_0576/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0576-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0576-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0576-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0576-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/07/DSC_0576-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+              </dt>
+            </dl>
+            
+            <br style="clear: both" />
+          </div></p> 
+          
+          <p>
+            &nbsp;
+          </p>
+          
+          <p>
+            &nbsp;
+          </p>
+          
+          <p>
+            </center> Some winning tweets and reactions after being awarded:
+          </p>
+          
+          <p>
+            &nbsp;
+          </p>
+          
+          <blockquote class="twitter-tweet" data-lang="it">
+            <p dir="ltr" lang="en">
+              vector<track> t = {&#8220;R9&#8221;, &#8220;R7&#8221;} ; for_each(par, t.begin(), t.end(), [](const track &t){t.attend();}); // throws std::bad_alloc <a href="https://twitter.com/hashtag/itCppCon17?src=hash">#itCppCon17</a>
+            </p>
+            
+            <p>
+              — drdanz (@drdanz) <a href="https://twitter.com/drdanz/status/876015266374791168">17 giugno 2017</a>
+            </p>
+          </blockquote>
+          
+          <p>
+          </p>
+          
+          <blockquote class="twitter-tweet" data-lang="it">
+            <p dir="ltr" lang="en">
+              «&#8221;Monad&#8221; used to be a dirty word» &#8211; still is in Veneto <a href="https://twitter.com/hashtag/itCppCon17?src=hash">#itCppCon17</a>
+            </p>
+            
+            <p>
+              — Matteo Italia (@cvtsi2sd) <a href="https://twitter.com/cvtsi2sd/status/876064690027335680">17 giugno 2017</a>
+            </p>
+          </blockquote>
+          
+          <p>
+          </p>
+          
+          <blockquote class="twitter-tweet" data-lang="it">
+            <p dir="ltr" lang="en">
+              Thx for the book <a href="https://twitter.com/hashtag/itCppCon17?src=hash">#itCppCon17</a>! I promise I&#8217;ll be diving into it asap 🙂 <a href="https://twitter.com/hashtag/summerreads?src=hash">#summerreads</a> <a href="https://t.co/KWEEN1j1KN">pic.twitter.com/KWEEN1j1KN</a>
+            </p>
+            
+            <p>
+              — std::async (@omissis) <a href="https://twitter.com/omissis/status/876108918577131520">17 giugno 2017</a>
+            </p>
+          </blockquote>
+          
+          <p>
+          </p>
+          
+          <blockquote class="twitter-tweet" data-lang="it">
+            <p dir="ltr" lang="en">
+              Thanks for the book, I promise that I will finally learn proper sync (no more brutal polling over atomic_int!) <a href="https://twitter.com/hashtag/itCppCon17?src=hash">#itCppCon17</a> <a href="https://t.co/UCnQeIxOQh">pic.twitter.com/UCnQeIxOQh</a>
+            </p>
+            
+            <p>
+              — Matteo Italia (@cvtsi2sd) <a href="https://twitter.com/cvtsi2sd/status/876117832597155840">17 giugno 2017</a>
+            </p>
+          </blockquote>
+          
+          <p>
+          </p>
+          
+          <p>
+            Thanks to <a href="http://www.oreilly.com/" target="_blank" rel="noopener noreferrer">O’Reilly Media</a> and <a href="http://manning.com" target="_blank" rel="noopener noreferrer">Manning</a> for the free books!
+          </p>
+          
+          <p>
+            <span style="color: #ffffff;"> </span>
+          </p>
+          
+          <h4>
+            <span style="color: #2945a4;">What&#8217;s next?</span>
+          </h4>
+          
+          <p style="text-align: justify;">
+            Well, my mind is already heading towards the second annual event that we usually organize: the <strong>C++ Day</strong>. My staff and I would like to make it happen in Bologna or Modena by December&#8230;we&#8217;ll keep you posted! If you are keen on helping or sponsoring please <a href="http://www.italiancpp.org/chi-siamo/contattaci">get in touch</a>.
+          </p>
+          
+          <h5 style="text-align: justify;">
+            Thanks to all!
+          </h5>

@@ -1,0 +1,600 @@
+---
+id: 7060
+title: C++ Day 2016
+date: 2016-11-04T17:42:38+01:00
+author: marco
+layout: revision
+guid: http://www.italiancpp.org/2016/11/04/6997-revision-v1/
+permalink: /2016/11/04/6997-revision-v1/
+---
+<center>
+  <div id='gallery-140' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/dsc01377/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-140-6971" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/DSC01377-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-140-6971'>
+        Attendees of a technical session
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01399/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-140-7027" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01399-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-140-7027'>
+        Networking
+      </dd>
+    </dl>
+    
+    <dl class='gallery-item'>
+      <dt class='gallery-icon landscape'>
+        <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01470/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-140-7028" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      </dt>
+      
+      <dd class='wp-caption-text gallery-caption' id='gallery-140-7028'>
+        Template Metaprogramming Workshop
+      </dd>
+    </dl>
+    
+    <br style="clear: both" />
+  </div></p> 
+  
+  <p style="text-align: justify;">
+    Last Saturday the first <strong>C++ Day</strong> happened in Florence, a free Italian event entirely dedicated to C++. Almost <strong>80 people</strong> attended (100 actually enrolled, the drop rate was ~20%). We co-organized the event with <a href="http://develer.com" target="_blank">Develer</a>. The event was sponsored by <a href="http://soft2000sas.it/" target="_blank">Soft2000</a> and supported by <a href="http://jetbrains.com" target="_blank">JetBrains</a> and <a href="http://www.oreilly.com" target="_blank">O&#8217;Reilly Media</a>.
+  </p>
+  
+  <p style="text-align: justify;">
+    The C++ Day was awesome! We had <strong>6 great technical sessions</strong>, a <strong>Workshop</strong>, a <strong>Coding Dojo</strong> and a <strong>Q/A plenary panel</strong>. A big part of the event was allocated for <strong>networking </strong>and<strong> interaction</strong>.
+  </p>
+  
+  <p>
+    </center>
+  </p>
+  
+  <p style="text-align: justify;">
+    Find <a href="https://www.facebook.com/photo.php?fbid=10154675914456057&set=oa.883545501780439&type=3&theater" target="_blank">here</a> more than 140 pictures of the day!
+  </p>
+  
+  <p style="text-align: justify;">
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4 style="text-align: justify;">
+    <span style="color: #2945a4;">THANK-YOU!</span>
+  </h4>
+  
+  <p style="text-align: justify;">
+    I want to thank <strong>Develer</strong> (in particular <strong>Mena Marotta</strong> & <strong>Matteo Benci</strong>), who shared the journey with us and contributed to achieve this great result.
+  </p>
+  
+  <p style="text-align: justify;">
+    Thanks to <strong>Soft2000</strong> (in particular <strong>Andrea Bartoli</strong>) for the big support and for the confidence.
+  </p>
+  
+  <p style="text-align: justify;">
+    Thanks to my staff (in random order: Stefano Saraulli, Gian Lorenzo Meocci, Franco Milicchio, Marco Foco, Raffaele Rialdi). This event wouldn’t have been possible without these guys.
+  </p>
+  
+  <p style="text-align: justify;">
+    Last but not least, a <strong>huge THANKS</strong> to almost 80 attendees we had! A great result for the C++ ecosystem.
+  </p>
+  
+  <p style="text-align: justify;">
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4 style="text-align: justify;">
+    <span style="color: #2945a4;">Who attended the C++ Day 2016</span>
+  </h4>
+  
+  <p style="text-align: justify;">
+    Let me share some statistics about the people attending the event.
+  </p>
+  
+  <p style="text-align: justify;">
+    Just to be transparent: this information comes directly from the registration form that people had to fill out at the moment of the registration. This was useful also to know in advance what to expect from attendees.
+  </p>
+  
+  <p style="text-align: justify;">
+    <strong>The data I&#8217;m going to show you has been filtered by considering only answers of people who really attended the event.</strong>
+  </p>
+  
+  <p style="text-align: justify;">
+    The average of the <strong>age</strong> of people were <strong>35</strong>. The youngest was <strong>22</strong>, the oldest was <strong>58</strong>.
+  </p>
+  
+  <p style="text-align: justify;">
+    The <strong>C++ knowledge level</strong> was pretty <strong>high</strong>:
+  </p>
+  
+  <div id="attachment_7051" style="width: 492px" class="wp-caption aligncenter">
+    <img aria-describedby="caption-attachment-7051" loading="lazy" class="wp-image-7051 size-full" src="http://www.italiancpp.org/wp-content/uploads/2016/11/pie-level.png" width="482" height="257" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-level.png 482w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-level-300x160.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-level-250x133.png 250w" sizes="(max-width: 482px) 100vw, 482px" />
+    
+    <p id="caption-attachment-7051" class="wp-caption-text">
+      What&#8217;s your C++ level?
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    As you see, <strong>73% of attendees were experienced C++ programmers</strong> (35% felt being &#8220;expert&#8221;). We had also a few students and beginners.
+  </p>
+  
+  <p style="text-align: justify;">
+    When I gave my talk I had the feeling of speaking to many experienced programmers and experts, indeed the questions and the observations they did were really clever.
+  </p>
+  
+  <p style="text-align: justify;">
+    Another information we have is about <strong>how often people use C++ at work</strong>:
+  </p>
+  
+  <div id="attachment_7052" style="width: 501px" class="wp-caption aligncenter">
+    <img aria-describedby="caption-attachment-7052" loading="lazy" class="wp-image-7052 size-full" src="http://www.italiancpp.org/wp-content/uploads/2016/11/pie-usage.png" width="491" height="249" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-usage.png 491w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-usage-300x152.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-usage-250x127.png 250w" sizes="(max-width: 491px) 100vw, 491px" />
+    
+    <p id="caption-attachment-7052" class="wp-caption-text">
+      How often do you use C++ at work?
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    <strong>More than a half of people regularly use C++ at work</strong> (as probably expected from the previous answer). A good part (~40% in total) doesn&#8217;t use C++ at work or use it rarely.
+  </p>
+  
+  <p style="text-align: justify;">
+    Then another interesting data: <strong>which C++ standard do people use the most?</strong>
+  </p>
+  
+  <div id="attachment_7053" style="width: 494px" class="wp-caption aligncenter">
+    <img aria-describedby="caption-attachment-7053" loading="lazy" class="wp-image-7053 size-full" src="http://www.italiancpp.org/wp-content/uploads/2016/11/pie-standard.png" width="484" height="252" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-standard.png 484w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-standard-300x156.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-standard-250x130.png 250w" sizes="(max-width: 484px) 100vw, 484px" />
+    
+    <p id="caption-attachment-7053" class="wp-caption-text">
+      Which standard do you use the most?
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    Interesting to notice that <strong>a good part of the audience is still committed to C++98</strong>. The rest &#8211;<strong> 66%</strong> &#8211; <strong>works with >= C++11 standards</strong>.
+  </p>
+  
+  <p style="text-align: justify;">
+    Attendees were also asked about the<strong> usage of templates</strong>. In this case we proposed many detailed answers (probably too many &#8211; mea culpa) you can see the distribution here:
+  </p>
+  
+  <div id="attachment_7054" style="width: 590px" class="wp-caption aligncenter">
+    <img aria-describedby="caption-attachment-7054" loading="lazy" class="wp-image-7054 size-full" src="http://www.italiancpp.org/wp-content/uploads/2016/11/pie-templates.png" width="580" height="332" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-templates.png 580w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-templates-300x172.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-templates-250x143.png 250w" sizes="(max-width: 580px) 100vw, 580px" />
+    
+    <p id="caption-attachment-7054" class="wp-caption-text">
+      Do you use templates?
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    As you can see, <strong>the majority of attendees use templates</strong> (total of 70%). A tiny part (4%) &#8220;can&#8217;t live without them&#8221;, whereas 16% of people &#8220;use them often&#8221;. <strong>20% stays away</strong> or  says &#8220;what&#8217;s that?!&#8221;.
+  </p>
+  
+  <p style="text-align: justify;">
+    Finally, we collected some information about <strong>libraries in use</strong> (not in percentage but exactly how many people selected the corresponding library &#8211; many answers were obviously possible):
+  </p>
+  
+  <div id="attachment_7055" style="width: 585px" class="wp-caption aligncenter">
+    <img aria-describedby="caption-attachment-7055" loading="lazy" class="wp-image-7055 size-full" src="http://www.italiancpp.org/wp-content/uploads/2016/11/pie-libs.png" width="575" height="330" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-libs.png 575w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-libs-300x172.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/pie-libs-250x143.png 250w" sizes="(max-width: 575px) 100vw, 575px" />
+    
+    <p id="caption-attachment-7055" class="wp-caption-text">
+      Which libraries do you employ?
+    </p>
+  </div>
+  
+  <p style="text-align: justify;">
+    <strong>The most sensible data is about Qt and boost, that are used a lot</strong>. Second and third place for libraries by <strong>Google</strong> and then by <strong>Micosoft</strong>. You can see the rest yourself on the pie chart.
+  </p>
+  
+  <p style="text-align: justify;">
+    <span style="color: #ffffff;"> </span>
+  </p>
+  
+  <h4 style="text-align: justify;">
+    <span style="color: #2945a4;">Structure and contents of the event</span>
+  </h4>
+  
+  <p style="text-align: justify;">
+    The C++ Day in numbers:
+  </p>
+  
+  <ul>
+    <li style="text-align: justify;">
+      6&#215;60&#8242; technical sessions
+    </li>
+    <li style="text-align: justify;">
+      1&#215;60&#8242; C++ Coding Dojo
+    </li>
+    <li style="text-align: justify;">
+      1&#215;60&#8242; C++ Unconference
+    </li>
+    <li style="text-align: justify;">
+      1&#215;45&#8242; Q/A panel
+    </li>
+    <li style="text-align: justify;">
+      1&#215;135&#8242; Workshop
+    </li>
+    <li style="text-align: justify;">
+      150&#8242; allocated for networking
+    </li>
+  </ul>
+  
+  <p style="text-align: justify;">
+    First of all, let me tell you that <strong>we canceled the C++ Unconference</strong> just because not a single person really cared about that. The format was quite common:
+  </p>
+  
+  <ul>
+    <li>
+      there was a pubic whiteboard/flip chart somewhere;
+    </li>
+    <li>
+      people could propose to speak/moderate a discussion about a topic by putting a post-it on the board;
+    </li>
+    <li>
+      people could vote proposals made by others;
+    </li>
+    <li>
+      the best proposals would had been choosen.
+    </li>
+  </ul>
+  
+  <p>
+    What a pity! Anyway, it&#8217;s feedback for the next time.
+  </p>
+  
+  <p style="text-align: justify;">
+    Talk topics:
+  </p>
+  
+  <ul>
+    <li style="text-align: justify;">
+      <strong>C++17 for the daily job</strong> (my talk &#8211; <a href="http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf" target="_blank">slides in ENG</a>)
+    </li>
+    <li style="text-align: justify;">
+      <strong>Graphics Stack in Qt</strong> (<em>Luca Ottaviano</em>)
+    </li>
+    <li style="text-align: justify;">
+      <strong>C++ & Kafka: high performance streaming</strong> (<em>Gian Lorenzo Meocci</em> &#8211; <a href="http://www.meocci.it/C++Day16_Streaming.pdf" target="_blank">slides in ENG</a>)
+    </li>
+    <li style="text-align: justify;">
+      <strong>Data Oriented Design: high performance in C++</strong> (<em>Daniele Bargiacchi</em>)
+    </li>
+    <li style="text-align: justify;">
+      <strong>Introduction to Modern C++ for WinRT</strong> (<em>Raffaele Rialdi</em>)
+    </li>
+    <li style="text-align: justify;">
+      <strong>API Design in C++</strong> (<em>Marco Foco</em>)
+    </li>
+  </ul>
+  
+  <p>
+    <center>
+      <div id='gallery-141' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/img_0614/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-141-7034" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0614-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-141-7034'>
+            Marco Arena on &#8220;C++17 for the daily job&#8221;
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01408/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-141-7039" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01408-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-141-7039'>
+            Gian Lorenzo Meocci on &#8220;C++ & Kafka&#8221;
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/img_0635/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-141-7036" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0635-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-141-7036'>
+            Daniele Maccioni on &#8220;Data Oriented Design in C++&#8221;
+          </dd>
+        </dl>
+        
+        <br style="clear: both" />
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01456/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-141-7038" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01456-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-141-7038'>
+            Raffaele Rialdi on &#8220;Introduction of Modern C++ for WinRT&#8221;
+          </dd>
+        </dl>
+        
+        <dl class='gallery-item'>
+          <dt class='gallery-icon landscape'>
+            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/img_0650/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-141-7037" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/IMG_0650-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+          </dt>
+          
+          <dd class='wp-caption-text gallery-caption' id='gallery-141-7037'>
+            Marco Foco on &#8220;API Design in C++&#8221;
+          </dd>
+        </dl>
+        
+        <br style='clear: both' />
+      </div></p> 
+      
+      <p style="text-align: justify;">
+        <strong>Videos will be published soon</strong> (in Italian, so not interesting for an international audience).
+      </p>
+      
+      <p style="text-align: justify;">
+        At the end of the day we had our classical &#8220;<em>Ask Us Everything</em>&#8221; <strong>Q/A panel</strong> during which the speakers and the attendees had an interesting open discussion about several topics. For instance, which features we miss the most in C++, or which rejected/postponed C++17 proposals we would need (modules, reflection and concepts were the most popular answers).
+      </p>
+      
+      <p>
+        </center>
+      </p>
+      
+      <div id="attachment_7035" style="width: 545px" class="wp-caption aligncenter">
+        <img aria-describedby="caption-attachment-7035" loading="lazy" class="wp-image-7035" src="http://www.italiancpp.org/wp-content/uploads/2016/11/DSC01529-1024x768.jpg" alt="dsc01529" width="535" height="402" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01529-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01529-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01529-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01529-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01529-250x188.jpg 250w" sizes="(max-width: 535px) 100vw, 535px" />
+        
+        <p id="caption-attachment-7035" class="wp-caption-text">
+          &#8220;Ask Us Everything&#8221; Q/A plenary panel
+        </p>
+      </div>
+      
+      <p style="text-align: justify;">
+        Stefano Saraulli and I moderated the <strong>C++ Coding Dojo</strong>, an interactive session during which we proposed a couple of programming puzzles and we moderated an open discussion to solve them, while a volunteer was writing the code in front of the main laptop. This session was great and we already got tons of good feedback: we &#8220;proposed alternative and creative solutions&#8221; (what a few people said, literally). The main purpose of the dojo was to lead people to find effective usages of containers and algorithms, and to think differently than usual. We had many solutions, some more efficient, others more flexible.
+      </p>
+      
+      <p>
+        <center>
+          <div id='gallery-142' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+            <dl class='gallery-item'>
+              <dt class='gallery-icon landscape'>
+                <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01414/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-142-7030" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01414-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+              </dt>
+              
+              <dd class='wp-caption-text gallery-caption' id='gallery-142-7030'>
+                Solving a challenge, all together
+              </dd>
+            </dl>
+            
+            <dl class='gallery-item'>
+              <dt class='gallery-icon landscape'>
+                <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/wp_20161029_12_45_19_pro-1/'><img width="300" height="169" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-300x169.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-142-7031" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-300x169.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-768x433.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-1024x577.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-600x338.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/WP_20161029_12_45_19_Pro-1-250x141.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+              </dt>
+              
+              <dd class='wp-caption-text gallery-caption' id='gallery-142-7031'>
+                Stefano Saraulli explaining our solution to a problem
+              </dd>
+            </dl>
+            
+            <br style='clear: both' />
+          </div></p> 
+          
+          <p style="text-align: justify;">
+            On the <strong>Template Metaprogramming Workshop</strong> facilitated by Eugenio Bargiacchi, I know it was really appreciated because we already got gentle feedback. The workshop consisted of a series of increasing complexity exercises.
+          </p>
+          
+          <p>
+            </center>
+            
+            <center>
+              <div id='gallery-143' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+                <dl class='gallery-item'>
+                  <dt class='gallery-icon landscape'>
+                    <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01470/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-143-7028" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01470-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                  </dt>
+                  
+                  <dd class='wp-caption-text gallery-caption' id='gallery-143-7028'>
+                    Template Metaprogramming Workshop
+                  </dd>
+                </dl>
+                
+                <dl class='gallery-item'>
+                  <dt class='gallery-icon landscape'>
+                    <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01508/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-143-7033" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01508-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                  </dt>
+                  
+                  <dd class='wp-caption-text gallery-caption' id='gallery-143-7033'>
+                    Template Metaprogramming Workshop
+                  </dd>
+                </dl>
+                
+                <br style='clear: both' />
+              </div></p> 
+              
+              <p style="text-align: justify;">
+                Time allocated for <strong>networking</strong> deserves a special mention because I really use to care about it at events in general. In my opinion, one of the reasons why we attend events and conferences is for meeting and chatting with other people. <strong>Thus we had more than 150&#8242; allocated for networking overall</strong>.
+              </p>
+              
+              <p>
+                </center><span style="color: #ffffff;"> </span>
+              </p>
+              
+              <h4>
+                <span style="color: #2945a4;">C++17 on-site compiler</span>
+              </h4>
+              
+              <p style="text-align: justify;">
+                I have always wondered why programming/CS events don&#8217;t place compilers/interactive environments around the event area. <strong>At least in Italy I don&#8217;t know any event that provides such thing</strong>.
+              </p>
+              
+              <p style="text-align: justify;">
+                Events generally have free boards, post-its, etc. <strong>Why not compilers?</strong> I am a Software Engineer, I am a programmer, I want to demonstrate with code what I&#8217;m talking about to people during the coffee break, quickly!
+              </p>
+              
+              <p style="text-align: justify;">
+                So <strong>Gian Lorenzo Meocci made my dream come true</strong> by setting up a Linux board plugged to a 19&#8221; monitor, a keyboard, and a mouse, connected via WiFi to the Internet. Then we just opened both <a href="http://melpon.org/wandbox" target="_blank">melpon</a> and <a href="https://godbolt.org" target="_blank">godbolt</a> on a browser and the game was afoot!
+              </p>
+              
+              <p style="text-align: justify;">
+                Many people tried C++17 features that I had explained just 5 minutes before at my talk, others discussed programming problems looking at real code, some showed me a boost library I have never used. And so on. A few shots:
+              </p>
+              
+              <p>
+                <center>
+                  <div id='gallery-144' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+                    <dl class='gallery-item'>
+                      <dt class='gallery-icon landscape'>
+                        <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01390/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-144-7024" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01390-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                      </dt>
+                      
+                      <dd class='wp-caption-text gallery-caption' id='gallery-144-7024'>
+                        People writing and running code
+                      </dd>
+                    </dl>
+                    
+                    <dl class='gallery-item'>
+                      <dt class='gallery-icon portrait'>
+                        <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01394/'><img width="225" height="300" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01394-225x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-144-7025" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01394-225x300.jpg 225w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01394-768x1024.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01394-600x800.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01394-250x333.jpg 250w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+                      </dt>
+                      
+                      <dd class='wp-caption-text gallery-caption' id='gallery-144-7025'>
+                        Me and a few people trying C++17 features
+                      </dd>
+                    </dl>
+                    
+                    <dl class='gallery-item'>
+                      <dt class='gallery-icon landscape'>
+                        <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc01522/'><img width="300" height="225" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-144-7026" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-768x576.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-1024x768.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC01522-250x188.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                      </dt>
+                      
+                      <dd class='wp-caption-text gallery-caption' id='gallery-144-7026'>
+                        One attendee showing the split view of Godbolt
+                      </dd>
+                    </dl>
+                    
+                    <br style="clear: both" />
+                  </div></p> 
+                  
+                  <p style="text-align: justify;">
+                    One anecdote about my talk on C++17: at the end I left enough time for 7-8 questions. Since I didn&#8217;t know the answer to a couple of them, I honestly replied &#8220;don&#8217;t worry, we go to the compiler and we try!&#8221;. So we did and it worked like a charm. Let&#8217;s call it &#8220;Compiler Aided Talk&#8221; 🙂
+                  </p>
+                  
+                  <p style="text-align: justify;">
+                    Guys, if you are organizing programming events I really suggest you to put compilers on the event ground!
+                  </p>
+                  
+                  <p>
+                    </center>
+                  </p>
+                  
+                  <p style="text-align: justify;">
+                    <span style="color: #ffffff;"> </span>
+                  </p>
+                  
+                  <h4>
+                    <span style="color: #2945a4;">Feedback</span>
+                  </h4>
+                  
+                  <p style="text-align: justify;">
+                    We decided to stop using <a href="https://joind.in/" target="_blank">Joind.in</a> for getting feedback, mainly because (imho) it&#8217;s not a proper feedback platform for events, rather it&#8217;s a website for publicly rating talks. It&#8217;s not suitable for getting valuable feedback on the event. We needed to ask people specific questions and we wanted people to be at ease with the feedback workflow. So we decided to move to the classical &#8220;survey&#8221; approach, by using <strong>Google Forms</strong> (because it&#8217;s easy and free).
+                  </p>
+                  
+                  <p style="text-align: justify;">
+                    We have collected a really positive feedback overall, and also precious suggestions for the next event. At the moment, ~45% of attendees gave feedback.
+                  </p>
+                  
+                  <p style="text-align: justify;">
+                    <span style="color: #ffffff;"> </span>
+                  </p>
+                  
+                  <h4 style="text-align: justify;">
+                    <span style="color: #2945a4;">#cppDay16 and gifts</span>
+                  </h4>
+                  
+                  <p style="text-align: justify;">
+                    We gave prizes to the best <strong>#cppDay16</strong> tweets. This time they were in Italian so let me just show you a few pictures of the award ceremony:
+                  </p>
+                  
+                  <p>
+                    <center>
+                      <div id='gallery-145' class='gallery galleryid-7060 gallery-columns-3 gallery-size-medium'>
+                        <dl class='gallery-item'>
+                          <dt class='gallery-icon landscape'>
+                            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc_3590/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-145-7009" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3590-250x167.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                          </dt>
+                          
+                          <dd class='wp-caption-text gallery-caption' id='gallery-145-7009'>
+                            Me opening the award ceremony
+                          </dd>
+                        </dl>
+                        
+                        <dl class='gallery-item'>
+                          <dt class='gallery-icon landscape'>
+                            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc_3593/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-145-7010" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3593-250x167.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                          </dt>
+                          
+                          <dd class='wp-caption-text gallery-caption' id='gallery-145-7010'>
+                            Winner of &#8220;Optimized C++&#8221;, offered by O&#8217;Reilly Media
+                          </dd>
+                        </dl>
+                        
+                        <dl class='gallery-item'>
+                          <dt class='gallery-icon landscape'>
+                            <a href='http://192.168.64.2/wordpress/2016/11/04/cppday16/dsc_3595/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-145-7011" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2016/11/DSC_3595-250x167.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+                          </dt>
+                          
+                          <dd class='wp-caption-text gallery-caption' id='gallery-145-7011'>
+                            Winner of a classical &#8220;Italian C++ Community&#8221; mug
+                          </dd>
+                        </dl>
+                        
+                        <br style="clear: both" />
+                      </div></p> 
+                      
+                      <p style="text-align: justify;">
+                        Thanks to <a href="http://www.oreilly.com/" target="_blank">O&#8217;Reilly Media</a> for giving free books and <a href="http://jetbrains.com/" target="_blank">JetBrains</a> for giving free product licenses.
+                      </p>
+                      
+                      <p>
+                        </center>
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        <span style="color: #ffffff;"> </span>
+                      </p>
+                      
+                      <h4 style="text-align: justify;">
+                        <span style="color: #2945a4;">What&#8217;s next?</span>
+                      </h4>
+                      
+                      <p style="text-align: justify;">
+                        November is a demanding month for me! Tomorrow I&#8217;m travelling to Redmond (USA) for the <strong>Microsoft MVP Summit</strong> (the first one for me), 4 days at the Microsoft Campus!
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        The week next I&#8217;m going to Berlin, for <a href="http://meetingcpp.com" target="_blank">Meeting C++ 2016</a>. This year is special for me because I&#8217;ll join the event staff &#8211; thanks to Jens for the opportunity. In Berlin you can also meet other members of the Italian C++ Community, so if you are there let&#8217;s get in touch!
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        In 2017 we want to organize other 2 Italian C++ events, probably one in spring and one in autumn. Let&#8217;s try&#8230;
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        Obviously, keep following the community for our participations, talks and panels to other events (e.g. Qt Day, Microsoft Community Days, etc).
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        <span style="color: #ffffff;"> </span>
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        <a href="http://golab.io"><img loading="lazy" class="aligncenter wp-image-6974 size-full" src="http://www.italiancpp.org/wp-content/uploads/2013/06/go-lab.png" alt="go-lab" width="367" height="118" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2013/06/go-lab.png 367w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/go-lab-300x96.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2013/06/go-lab-250x80.png 250w" sizes="(max-width: 367px) 100vw, 367px" /></a>
+                      </p>
+                      
+                      <p style="text-align: justify;">
+                        The C++ Day is partner of <a href="http://golab.io" target="_blank">GoLab</a>, the first Italian conference on Go, in next January. Since it&#8217;s an international event maybe you are interested in attending. In case, <strong>CPP30</strong> is a 30% discount code you may use for getting a cheaper ticket.
+                      </p>
+                      
+                      <h5>
+                        Thanks to all and stay tuned!
+                      </h5>

@@ -1,0 +1,398 @@
+---
+id: 8399
+title: C++ Day 2017
+date: 2017-12-11T19:48:01+01:00
+author: marco
+layout: revision
+guid: http://www.italiancpp.org/2017/12/11/8356-revision-v1/
+permalink: /2017/12/11/8356-revision-v1/
+---
+<div id='gallery-373' class='gallery galleryid-8399 gallery-columns-2 gallery-size-medium'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/25182079_1903169233331117_2549194994599439133_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182079_1903169233331117_2549194994599439133_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/24879884_1903167203331320_2007379116413815425_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+</div>
+
+<p style="text-align: justify;">
+  At the beginning of December, on the 2nd, the <strong>Italian C++ Community</strong> hosted the <a href="http://www.italiancpp.org/cppday17">C++ Day 2017</a> and about <strong>110 people</strong> gather together. The drop rate was the lowest I have ever seen: ~8% (120 tickets emitted). This free event was hosted at <a href="http://www.centroalberionemodena.it/">Centro Culturale Giacomo Alberione</a>, an historical location in the lovely center of <strong>Modena</strong>.
+</p>
+
+<p style="text-align: justify;">
+  As usual, the event has been organized with no budget. Only a few sponsors covered the main expenses. <strong>Guido Pederzini</strong> was the event co-organizer and, above all, he found and was responsible for our charming location. Guido and I organized this event in a few weeks. Initially, the plan was to do it in Bologna. However, at the beginning of September, an agreement I had with some people there fell through (you know, bureaucracy&#8230;). Then we restarted from scratch, in September, with no location, no sponsors and just a few confirmed talks. Giving up? Not me.
+</p>
+
+<p style="text-align: justify;">
+  I pushed a lot for having this event because I think <strong>continuity</strong> is important. I am committed to be directly involved in the organization of 2 main events about C++ in Italy every year. My target is to keep alive this &#8220;italian&#8221; dialogue about C++ that I have started about 5 years ago.
+</p>
+
+<p style="text-align: justify;">
+  Guido is from Modena and he found this beautiful location in the center of the city. Just a few days later we made a visit to this place and then we set the event live on our website.
+</p>
+
+<p style="text-align: justify;">
+  Honestly, after the huge results of the <a href="http://www.italiancpp.org/itcppcon17/">Italian C++ Conference 2017</a>, my expectations for the <strong>C++ Day 2017</strong> were simply lower. Only one track, no money for lunch and a location with &#8220;only&#8221; 100 seats.
+</p>
+
+<p style="text-align: justify;">
+  I was wrong.
+</p>
+
+<p style="text-align: justify;">
+  The available tickets got sold out in 3 weeks and people started flooding the wait-list shortly after. We ended up emitting more tickets than available seats. That&#8217;s normal for free events because organizers have to take into account some &#8220;drop&#8221; (people who subscribe but at the end don&#8217;t show up). Then we had 120 tickets but our room could accommodate at most 100 people. Guess what? 110 people showed up! Thus the room got full packaged and we needed to add some additional seats on the fly. This clearly caused some inconvenience.
+</p>
+
+<p style="text-align: justify;">
+  My apologies for that, it&#8217;s our fault. Mine, firstly.
+</p>
+
+<p style="text-align: justify;">
+  Apart from that, the event was really pleasant and the feedback we have received so far confirms my feeling.
+</p>
+
+<p style="text-align: justify;">
+  Modena was a great location! During the last two years I have created some activities here in Modena (above all: <strong>Coding Gym</strong> and <strong>C++ meetups)</strong>, thanks to my collaboration with <a href="http://conoscerelinux.org">ConoscereLinux</a> (Modena Linux User Group). In the future I&#8217;d like doing more stuff in this city.
+</p>
+
+<h4 style="text-align: justify;">
+</h4>
+
+<h4 style="text-align: justify;">
+  <span style="color: #2945a4;">THANK-YOU!</span>
+</h4>
+
+<p style="text-align: justify;">
+  Let me spend some kind words to thank who made the event possible:
+</p>
+
+<p style="text-align: justify;">
+  The co-organizer <strong>Guido Pederzini</strong> and the rest of the staff <strong>Alessandro Vergani</strong> and <strong>Illya Dudchenko</strong>. A few awesome people! Thank you.
+</p>
+
+<p style="text-align: justify;">
+  Our <strong>sponsors</strong>: <a href="https://recognitionrobotics.com/">Recognition Robotics</a>, <a href="http://sigeosrl.com">Sigeo srl</a>, <a href="http://www.elettric80.com/">Elettric80</a>. Thanks for your big support!
+</p>
+
+<p style="text-align: justify;">
+  The <strong>speakers</strong>: <strong>Carlo Pescio</strong>, <strong>Stefano Cristiano</strong>, <strong>Daniele Pallastrelli</strong>, <strong>Alberto Bignotti</strong>, <strong>Sebastiano Galazzo</strong>. Thanks for sharing your stories with the ecosystem!
+</p>
+
+<p style="text-align: justify;">
+  <strong>Centro Culturale Giacomo Alberione</strong>, for hospitality and support. Thanks a lot!
+</p>
+
+<p style="text-align: justify;">
+  Last but not least, a big thanks to <strong>110 people who attended</strong> the C++ Day 2017! You are amazing!
+</p>
+
+<h4 style="text-align: justify;">
+</h4>
+
+<h4 style="text-align: justify;">
+  <span style="color: #2945a4;">Some stats</span>
+</h4>
+
+<p style="text-align: justify;">
+  As usual, some data about the attendees.
+</p>
+
+**Attendees age:**
+
+  * the oldest: 58,
+  * the youngest: 19,
+  * the average: 35.
+
+**Attendees gender:**
+
+  * gentlemen: 105,
+  * ladies: 5.
+
+**Responses to the C++ survey:**
+
+<img loading="lazy" class="aligncenter size-full wp-image-8370" src="http://www.italiancpp.org/wp-content/uploads/2017/12/Domande-sondaggio.png" alt="" width="932" height="478" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio.png 932w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-300x154.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-768x394.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-600x308.png 600w" sizes="(max-width: 932px) 100vw, 932px" /> 
+
+(I don&#8217;t use C++ at work &#8211; Rarely &#8211; At least half of the time &#8211; Daily/Most of the time)
+
+<span style="color: #ffffff;"> </span>
+
+<img loading="lazy" class="aligncenter size-full wp-image-8369" src="http://www.italiancpp.org/wp-content/uploads/2017/12/Domande-sondaggio-1.png" alt="" width="932" height="478" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-1.png 932w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-1-300x154.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-1-768x394.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-1-600x308.png 600w" sizes="(max-width: 932px) 100vw, 932px" /> 
+
+(I don&#8217;t know C++ &#8211; Novice/Student &#8211; Fluent &#8211; Expert)
+
+<span style="color: #ffffff;"> </span>
+
+<img loading="lazy" class="aligncenter size-full wp-image-8368" src="http://www.italiancpp.org/wp-content/uploads/2017/12/Domande-sondaggio-2.png" alt="" width="932" height="478" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-2.png 932w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-2-300x154.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-2-768x394.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-2-600x308.png 600w" sizes="(max-width: 932px) 100vw, 932px" /> 
+
+(I don&#8217;t use C++ &#8211; C++98/C++03 &#8211; C++11 &#8211; C++14 &#8211; C++17)
+
+<span style="color: #ffffff;"> </span>
+
+<img loading="lazy" class="aligncenter size-full wp-image-8367" src="http://www.italiancpp.org/wp-content/uploads/2017/12/Domande-sondaggio-3.png" alt="" width="932" height="478" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-3.png 932w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-3-300x154.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-3-768x394.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-3-600x308.png 600w" sizes="(max-width: 932px) 100vw, 932px" /> 
+
+(Boost – Qt – MFC – POCO – JUICE – Scientific Libs – Graphics Libs – Physics Libs – Other)
+
+<span style="color: #ffffff;"> </span>
+
+<img loading="lazy" class="aligncenter size-full wp-image-8366" src="http://www.italiancpp.org/wp-content/uploads/2017/12/Domande-sondaggio-4.png" alt="" width="932" height="478" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-4.png 932w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-4-300x154.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-4-768x394.png 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/Domande-sondaggio-4-600x308.png 600w" sizes="(max-width: 932px) 100vw, 932px" /> 
+
+(VS – CLion – Eclipse – VSCode – DevC++ – QtCreator – VAX – ReSharper++ – Other)
+
+<span style="color: #ffffff;"> </span>
+
+#### <span style="color: #2945a4;">Structure and contents of the event</span>
+
+<p style="text-align: justify;">
+  The <strong>C++ Day 2017</strong> was a single-track full-day event consisting of 5&#215;60&#8242; technical talks, 2 coffee breaks (30&#8242; each) and a long lunch break (90&#8242; &#8211; people formed groups and went around the center of Modena). The talks (all in italian):
+</p>
+
+<li style="text-align: justify;">
+  (Slightly) Smarter Smart Pointers by Carlo Pescio
+</li>
+<li style="text-align: justify;">
+  C++ and UI: un unorthodox approach by Daniele Pallastrelli
+</li>
+<li style="text-align: justify;">
+  Immediate Mode Graphical User Interfaces in C++ by Stefano Cristiano
+</li>
+<li style="text-align: justify;">
+  C/C++ interoperability with other languages by Alberto Bignotti
+</li>
+<li style="text-align: justify;">
+  Artificial Intelligence Today by Sebastiano Galazzo
+</li>
+
+[Slides and links](http://github.com/italiancpp/cppday17)
+
+<p style="text-align: justify;">
+  It&#8217;s worth mentioning that <strong>Sebastiano Galazzo</strong> is currently the only italian holding a <strong>Microsoft MVP</strong> title for the category <strong>AI</strong>. I was very happy to invite him talking not strictly about C++. The most part of the attendees appreciated the idea too (according to the feedback).
+</p>
+
+<p style="text-align: justify;">
+  And&#8230;a special guest joined the event for a few minutes:
+</p>
+
+
+
+<p style="text-align: justify;">
+  Thanks to <strong>Herb Sutter</strong> for his message! This was a surprise for the people attending, even if, due to technical issues, I was not able to play it at the beginning of the event as I planned but just after lunch.
+</p>
+
+<p style="text-align: justify;">
+  Videos of the talks are on <a href="https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O">YouTube</a>.
+</p>
+
+<div id='gallery-374' class='gallery galleryid-8399 gallery-columns-3 gallery-size-medium'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/25182403_1903165896664784_1907755268635321531_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-374-8385" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25182403_1903165896664784_1907755268635321531_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-374-8385'>
+      Carlo Pescio
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/24955770_1903165193331521_8021767925410933387_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-374-8384" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24955770_1903165193331521_8021767925410933387_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-374-8384'>
+      Daniele Pallastrelli
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/24958767_1903171493330891_8759727136330339031_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-374-8383" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958767_1903171493330891_8759727136330339031_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-374-8383'>
+      Stefano Cristiano
+    </dd>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/24958694_1903171606664213_7943933735096602072_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-374-8382" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/24958694_1903171606664213_7943933735096602072_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-374-8382'>
+      Alberto Bignotti
+    </dd>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/25074777_1903172286664145_5436428316835499572_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" aria-describedby="gallery-374-8381" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25074777_1903172286664145_5436428316835499572_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+    
+    <dd class='wp-caption-text gallery-caption' id='gallery-374-8381'>
+      Sebastiano Galazzo
+    </dd>
+  </dl>
+  
+  <br style='clear: both' />
+</div>
+
+<h4 style="text-align: justify;">
+</h4>
+
+<h4 style="text-align: justify;">
+  <span style="color: #2945a4;">Feedback</span>
+</h4>
+
+<p style="text-align: justify;">
+  Less than 50% of the attendees left feedback. The feeling was quite good and it seems that only that inconvenience with the seats penalized the event a bit. This was definitely a 4-star events. Some charts follow:
+</p>
+
+<p style="text-align: justify;">
+  <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-general/" rel="attachment wp-att-8394"><img loading="lazy" class="aligncenter size-full wp-image-8394" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-general.png" alt="" width="720" height="323" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-general.png 720w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-general-300x135.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-general-600x269.png 600w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+</p>
+
+<p style="text-align: justify;">
+   <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-location/" rel="attachment wp-att-8393"><img loading="lazy" class="aligncenter size-full wp-image-8393" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-location.png" alt="" width="726" height="322" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-location.png 726w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-location-300x133.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-location-600x266.png 600w" sizes="(max-width: 726px) 100vw, 726px" /></a>
+</p>
+
+<p style="text-align: justify;">
+   <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-logistics/" rel="attachment wp-att-8392"><img loading="lazy" class="aligncenter size-full wp-image-8392" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-logistics.png" alt="" width="722" height="309" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-logistics.png 722w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-logistics-300x128.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-logistics-600x257.png 600w" sizes="(max-width: 722px) 100vw, 722px" /></a>
+</p>
+
+<p style="text-align: justify;">
+   <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-staff/" rel="attachment wp-att-8391"><img loading="lazy" class="aligncenter size-full wp-image-8391" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-staff.png" alt="" width="713" height="311" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-staff.png 713w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-staff-300x131.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-staff-600x262.png 600w" sizes="(max-width: 713px) 100vw, 713px" /></a>
+</p>
+
+<p style="text-align: justify;">
+   <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-networking/" rel="attachment wp-att-8390"><img loading="lazy" class="aligncenter size-full wp-image-8390" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-networking.png" alt="" width="699" height="317" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-networking.png 699w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-networking-300x136.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-networking-600x272.png 600w" sizes="(max-width: 699px) 100vw, 699px" /></a>
+</p>
+
+<p style="text-align: justify;">
+   <a href="http://www.italiancpp.org/2017/12/11/cppday17/cppday17-feedback-expectations/" rel="attachment wp-att-8389"><img loading="lazy" class="aligncenter size-full wp-image-8389" src="http://www.italiancpp.org/wp-content/uploads/2017/12/cppday17-feedback-expectations.png" alt="" width="729" height="372" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-expectations.png 729w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-expectations-300x153.png 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/cppday17-feedback-expectations-600x306.png 600w" sizes="(max-width: 729px) 100vw, 729px" /></a>
+</p>
+
+<p style="text-align: justify;">
+  (Learning new things &#8211; Peeking at what others are doing &#8211; Networking &#8211; Job opportunities &#8211; Business opportunities &#8211; Having fun)
+</p>
+
+<h4 style="text-align: justify;">
+</h4>
+
+<h4 style="text-align: justify;">
+  <span style="color: #2945a4;">#cppDay17 and quizzes</span>
+</h4>
+
+<p style="text-align: justify;">
+  You know we always give gadgets and prizes during the event. Prizes come with tweets but, this time, I decided to give a chance to quick quizzes. These consisted in understanding the output of a few lines of C++ code. The snippets were always an application of an STL algorithm.
+</p>
+
+<p style="text-align: justify;">
+  The first snippet was something like:
+</p>
+
+<pre>vector&lt;int&gt; v = {1,2,3,4,5};
+cout &lt;&lt; accumulate(next(begin(v)), end(v), 2);</pre>
+
+<p style="text-align: justify;">
+  Here you just have to notice the summation starts from the second element and the accumulator is initialized with 2.
+</p>
+
+<p style="text-align: justify;">
+  The second exercise:
+</p>
+
+<pre>vector&lt;int&gt; v = {1,2,3,4,5};
+reverse(begin(v)+2, end(v));
+reverse(begin(v), begin(v)+2);
+reverse(begin(v), end(v));</pre>
+
+<p style="text-align: justify;">
+  One person got it right and he won a prize. Afterwards, I asked: &#8220;what&#8217;s this code really about? Are you able to replace the last three lines with only one?&#8221;.
+</p>
+
+<p style="text-align: justify;">
+  A couple of smart guys replied: &#8220;<strong>rotate</strong>&#8220;. Indeed, <strong>std::rotate</strong> was the answer:
+</p>
+
+<pre>vector&lt;int&gt; v = {1,2,3,4,5};
+rotate(begin(v), begin(v)+2, end(v));</pre>
+
+<p style="text-align: justify;">
+  This exercise was inspired by the <a href="https://www.hackerrank.com/contests/modena-coding-nov-2017/challenges/array-left-rotation">last Coding Gym</a> I moderated in Modena a few weeks ago. The final challenge was about shifting an array and Roberto Melis proposed this solution to emulate <strong>std::rotate</strong> (rotate would have been the easy solution, however we set up the constraint &#8220;don&#8217;t use rotate or such&#8221;). Many people learnt something new!
+</p>
+
+<p style="text-align: justify;">
+  The last snippet was copied from <a href="http://en.cppreference.com/w/cpp/algorithm/adjacent_difference">cppreference</a>:
+</p>
+
+<pre>std::vector&lt;int&gt; v(10);
+v[0] = 1;
+adjacent_difference(v.begin(), v.end() - 1, v.begin() + 1, plus&lt;&gt;{});</pre>
+
+This is basically filling v with the first 10 Fibonacci numbers. A bit of explanation here:
+
+<p style="text-align: justify;">
+  <strong>adjacent_difference </strong>computes the differences between the second and the first of each adjacent pair of elements of a range. The result is written into another range, eventually overlapping with the input. In the snippet, the operation is &#8220;plus&#8221; (sum), and input and output lean on the same range: the input begins from the first element, the output begins from the second. This way, <strong>adjacent_difference</strong> will output the sum between the first and the second elements into the third, between the second and the third into the fourth, and so on (remember the first step of <strong>adjacent_difference</strong> is always to copy the first input straight into the destination):
+</p>
+
+<pre>v[0] -&gt; v[1]
+v[0] + v[1] -&gt; v[2]
+v[1] + v[2] -&gt; v[3]
+...</pre>
+
+<p style="text-align: justify;">
+  Regardless the application of this particular snippet in real-world code, I think it&#8217;s very instructive to see <em>patterns</em> and how they work. That&#8217;s one of the pillars of my <strong>Coding Gym</strong>.
+</p>
+
+<p style="text-align: justify;">
+  A couple of pictures of the winners (thanks to <a href="http://www.oreilly.com/" target="_blank" rel="noopener noreferrer">O’Reilly Media</a> for free books):
+</p>
+
+<div id='gallery-375' class='gallery galleryid-8399 gallery-columns-2 gallery-size-medium'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon portrait'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/wp_20171202_17_57_16_rich/'><img width="169" height="300" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/WP_20171202_17_57_16_Rich-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/WP_20171202_17_57_16_Rich-169x300.jpg 169w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/WP_20171202_17_57_16_Rich-768x1364.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/WP_20171202_17_57_16_Rich-576x1024.jpg 576w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/WP_20171202_17_57_16_Rich-600x1066.jpg 600w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://192.168.64.2/wordpress/2017/12/11/cppday17/25073444_1903173219997385_1012696817500745150_o/'><img width="300" height="200" src="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o-300x200.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o-768x512.jpg 768w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o-1024x683.jpg 1024w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o-600x400.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2017/12/25073444_1903173219997385_1012696817500745150_o.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+</div>
+
+<h4 style="text-align: justify;">
+</h4>
+
+<h4 style="text-align: justify;">
+  <span style="color: #2945a4;">What&#8217;s next</span>
+</h4>
+
+<p style="text-align: justify;">
+  We already have some activities in the pipeline.
+</p>
+
+<p style="text-align: justify;">
+  In 2018 I will keep on organizing <strong>Coding Gym</strong> and I have new plans for that. Please get in touch if you want to set up a monthly <strong>Coding Gym </strong> in your town. On <strong>Jan 9</strong> evening I&#8217;ll be speaking and demoing about <strong>Coding Gym</strong> in Bologna, at <a href="https://www.eventbrite.it/o/xpug-bologna-8536358133">XPug</a> January meetup.
+</p>
+
+<p style="text-align: justify;">
+  We are checking the waters for the <strong>Italian C++ Conference 2018</strong>. We need sponsors and we&#8217;ll open a call for papers at some point. Please get in touch if you are interested.
+</p>
+
+<p style="text-align: justify;">
+  It&#8217;s likely that, before Summer, we&#8217;ll have another C++ event that a few good guys from Pavia are looking after. The Italian C++ Community will patronize such event and the &#8220;historical&#8221; staff will get somehow involved in the organization (me, firstly).
+</p>
