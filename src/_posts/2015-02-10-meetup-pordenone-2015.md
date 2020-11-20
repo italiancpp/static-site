@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=4198
 permalink: /2015/02/10/meetup-pordenone-2015/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: justify;">
   <a href="http://www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg"><img loading="lazy" class="aligncenter wp-image-4199" src="http://www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856-1024x576.jpg" alt="20150207_091856" width="600" height="345" /></a>

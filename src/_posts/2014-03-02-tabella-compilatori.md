@@ -6,7 +6,7 @@ author: Raffaele Rialdi
 layout: post
 guid: http://www.italiancpp.org/?p=2850
 permalink: /2014/03/02/tabella-compilatori/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: justify;">
   Tutti i produttori di compilatori hanno preso molto sul serio la necessità di essere aderenti allo standard ISO.<br /> Con le specifiche C++11 e l&#8217;ormai imminente C++14 ogni sviluppatore ha la possibilità di &#8220;mettere in cassaforte&#8221; i sorgenti garantendogli lunga vita e sopravvivenza al compilatore utilizzato.<br /> Non è quindi una rincorsa alle mode ma un vero e proprio investimento che garantisce una migliore gestione del ciclo di vita del software.

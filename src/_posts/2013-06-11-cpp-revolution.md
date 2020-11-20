@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=450
 permalink: /2013/06/11/cpp-revolution/
-categories: articolo
+categories: Articoli
 tags:
   - basic
   - C++11

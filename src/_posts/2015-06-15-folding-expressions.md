@@ -6,7 +6,7 @@ author: Marco Alesiani
 layout: post
 guid: http://www.italiancpp.org/?p=4980
 permalink: /2015/06/15/folding-expressions/
-categories: articolo
+categories: Articoli
 tags:
   - C++17
   - fold-expressions

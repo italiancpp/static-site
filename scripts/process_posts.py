@@ -20,7 +20,7 @@ for f in posts:
     if "categories:\n" in text:
         idx = text.index("categories:\n")
         # new category
-        text[idx] = "categories: articolo\n"
+        text[idx] = "categories: Articoli\n"
         # skip old categories
         while text[idx + 1][0] == " ":
             text.remove(text[idx + 1])
@@ -28,7 +28,7 @@ for f in posts:
     else:
         # no categories, find the end of header
         idx = text.index("---\n", 1)
-        text[idx - 1] = "categories: articolo\n"
+        text[idx - 1] = "categories: Articoli\n"
         pass
 
     newf.writelines(text)

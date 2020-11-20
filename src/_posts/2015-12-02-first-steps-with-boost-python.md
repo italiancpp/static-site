@@ -6,7 +6,7 @@ author: stefano
 layout: post
 guid: http://www.italiancpp.org/?p=5479
 permalink: /2015/12/02/first-steps-with-boost-python/
-categories: articolo
+categories: Articoli
 tags:
   - boost
   - python

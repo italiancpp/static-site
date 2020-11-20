@@ -6,7 +6,7 @@ author: davide
 layout: post
 guid: http://www.italiancpp.org/?p=625
 permalink: /2013/06/24/auto-il-linguaggio-non-e-tutto/
-categories: articolo
+categories: Articoli
 tags:
   - basic
 ---

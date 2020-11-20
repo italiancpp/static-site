@@ -22,7 +22,7 @@ evolve_slider_type:
   - 'no'
 wp_sponsor_link_behaviour:
   - "0"
-categories: articolo
+categories: Articoli
 ---
 _Special thanks to_ **_Marco Alesiani_** _for many corrections and suggestions._
 

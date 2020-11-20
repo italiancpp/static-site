@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=2809
 permalink: /2014/03/01/c11-in-azione-cdays14/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: center;">
   <a href="http://www.italiancpp.org/wp-content/uploads/2013/07/loveItalianCpp.jpg"><img loading="lazy" class=" wp-image-2802 aligncenter" alt="ILoveItalianCpp" src="http://www.italiancpp.org/wp-content/uploads/2013/07/loveItalianCpp.jpg" width="576" height="323" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2013/07/loveItalianCpp.jpg 960w, http://192.168.64.2/wordpress/wp-content/uploads/2013/07/loveItalianCpp-300x168.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2013/07/loveItalianCpp-600x336.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2013/07/loveItalianCpp-250x140.jpg 250w" sizes="(max-width: 576px) 100vw, 576px" /></a>

@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=3751
 permalink: /2014/11/23/anti-if-idioms-in-cpp/
-categories: articolo
+categories: Articoli
 tags:
   - Anti-IF
   - IOP vs OOP

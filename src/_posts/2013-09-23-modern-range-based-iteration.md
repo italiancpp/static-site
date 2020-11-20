@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=1201
 permalink: /2013/09/23/modern-range-based-iteration/
-categories: articolo
+categories: Articoli
 tags:
   - basic
   - input iterator

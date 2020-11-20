@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=2177
 permalink: /2013/12/01/effective-code-transformations-in-cpp/
-categories: articolo
+categories: Articoli
 tags:
   - IAD13
 ---

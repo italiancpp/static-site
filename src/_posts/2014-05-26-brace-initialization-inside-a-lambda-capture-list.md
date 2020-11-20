@@ -6,7 +6,7 @@ author: Gian Lorenzo
 layout: post
 guid: http://www.italiancpp.org/?p=3229
 permalink: /2014/05/26/brace-initialization-inside-a-lambda-capture-list/
-categories: articolo
+categories: Articoli
 tags:
   - auto
   - initialized lambda capture

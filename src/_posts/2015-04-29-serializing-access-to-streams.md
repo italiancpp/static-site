@@ -6,7 +6,7 @@ author: Marco Foco
 layout: post
 guid: http://www.italiancpp.org/?p=3869
 permalink: /2015/04/29/serializing-access-to-streams/
-categories: articolo
+categories: Articoli
 tags:
   - stream
   - thread

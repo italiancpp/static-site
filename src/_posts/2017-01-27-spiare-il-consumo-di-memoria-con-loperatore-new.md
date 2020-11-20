@@ -20,7 +20,7 @@ evolve_slider_position:
   - default
 evolve_slider_type:
   - 'no'
-categories: articolo
+categories: Articoli
 ---
  
 

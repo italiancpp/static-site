@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=5077
 permalink: /2015/06/28/meetup-firenze-2015/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: justify;">
   <a href="http://www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg"><img loading="lazy" class="  wp-image-5059 aligncenter" src="http://www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg" alt="WP_001479" width="643" height="482" srcset="http://192.168.64.2/wordpress/wp-content/uploads/2015/03/WP_001479.jpg 718w, http://192.168.64.2/wordpress/wp-content/uploads/2015/03/WP_001479-300x225.jpg 300w, http://192.168.64.2/wordpress/wp-content/uploads/2015/03/WP_001479-600x450.jpg 600w, http://192.168.64.2/wordpress/wp-content/uploads/2015/03/WP_001479-250x187.jpg 250w" sizes="(max-width: 643px) 100vw, 643px" /></a>

@@ -6,7 +6,7 @@ author: Nicola Bonelli
 layout: post
 guid: http://www.italiancpp.org/?p=4682
 permalink: /2015/04/29/cat-a-c14-functional-library/
-categories: articolo
+categories: Articoli
 tags:
   - C++14
   - Functional Programming

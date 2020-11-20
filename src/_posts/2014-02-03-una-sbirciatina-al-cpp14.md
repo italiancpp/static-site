@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=2614
 permalink: /2014/02/03/una-sbirciatina-al-cpp14/
-categories: articolo
+categories: Articoli
 tags:
   - C++14
 ---

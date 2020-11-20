@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=3715
 permalink: /2014/11/16/italy-speaks-cpp-too/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: justify;">
   Italy has a bunch of excellent C++ programmers (working here or abroad) and sometimes I have the honor to meet them. In this brief post I just like to tell you our latest activities, when C++ people meet, discuss and share knowledge. Every time we meet, new people join us. I think this is another proof of the high interest for modern C++ by the industry, the academia, etc.

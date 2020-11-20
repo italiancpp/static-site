@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=3685
 permalink: /2014/11/16/meetup-bologna-2014/
-categories: articolo
+categories: Articoli
 tags:
   - meetup
 ---

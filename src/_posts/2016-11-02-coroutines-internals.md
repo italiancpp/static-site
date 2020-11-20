@@ -21,7 +21,7 @@ evolve_slider_position:
 evolve_slider_type:
   - 'no'
 image: /wp-content/uploads/2016/10/coroutines_graph2-680x330.png
-categories: articolo
+categories: Articoli
 tags:
   - boost
   - C++11

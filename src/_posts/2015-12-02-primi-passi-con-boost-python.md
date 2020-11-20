@@ -6,7 +6,7 @@ author: stefano
 layout: post
 guid: http://www.italiancpp.org/?p=5411
 permalink: /2015/12/02/primi-passi-con-boost-python/
-categories: articolo
+categories: Articoli
 ---
 ### &#8220;Finalmente un linguaggio più moderno e funzionale&#8221;
 

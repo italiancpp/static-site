@@ -22,7 +22,7 @@ evolve_slider_position:
   - default
 evolve_slider_type:
   - 'no'
-categories: articolo
+categories: Articoli
 ---
 It happens quite often to deal with those annoying objects, used everywhere in your applications. This may be because of a poorly designed application but, sometime, it is simply an inevitable condition. With this in mind and considering that either a design refactoring to remove the global dependence is, sometimes, not affordable because of business needs or not convenient because it leads to more complex code, I&#8217;ll try to propose a non-canonical solution to the problem.
 

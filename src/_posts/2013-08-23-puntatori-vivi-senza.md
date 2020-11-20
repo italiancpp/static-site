@@ -6,7 +6,7 @@ author: franco
 layout: post
 guid: http://www.italiancpp.org/?p=1070
 permalink: /2013/08/23/puntatori-vivi-senza/
-categories: articolo
+categories: Articoli
 tags:
   - basic
   - containers

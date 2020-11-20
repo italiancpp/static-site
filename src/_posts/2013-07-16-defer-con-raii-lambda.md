@@ -6,7 +6,7 @@ author: marco
 layout: post
 guid: http://www.italiancpp.org/?p=1072
 permalink: /2013/07/16/defer-con-raii-lambda/
-categories: articolo
+categories: Articoli
 ---
 <p style="text-align: justify;">
   Spesso è necessario garantire <em>a tutti i costi</em> l&#8217;esecuzione di un certo frammento di codice entro lo scope di una funzione, ovvero prima che essa ritorni il controllo al chiamante. Supponiamo di doverci interfacciare con un&#8217;API legacy che presenta il classico pattern:
