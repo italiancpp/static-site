@@ -4,11 +4,21 @@
   {%- assign paginator = site -%}
 {%- endif -%}
 
+
+{%- assign totarticles = 0 -%}
+
 {%- if paginator.posts.size > 0 -%}
 <div class="pagination">
   <!-- Post list links -->
   <ul class="post-list">
     {%- for post in paginator.posts -%}
+
+    {%- if totarticles > 5-%}
+      {%- break -%}
+    {%- endif -%}
+
+    {%- assign totarticles = totarticles | plus:1 -%}
+
     <li>
       {%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}
 
@@ -35,6 +45,7 @@
         {%- endfor -%}
       </div>
     </li>
+
     {%- endfor -%}
   </ul>
 

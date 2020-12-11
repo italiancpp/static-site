@@ -16,13 +16,10 @@
 {% assign hours = total_mins | divided_by: 60 %}
 {% assign mins = total_mins | modulo: 60 %}
 
-{% assign return = "About" %}
+{% assign return = "~" %}
 
 {% if hours > 0 %}
-  {% assign unit = "hour" %}
-  {% if hours > 1 %}
-    {% assign unit = unit | append: "s" %}
-  {% endif %}
+  {% assign unit = "h" %}
   {% assign return = return
     | append: " "
     | append: hours
@@ -31,9 +28,6 @@
 {% endif %}
 
 {% assign unit = "min" %}
-{% if mins > 1 %}
-  {% assign unit = unit | append: "s" %}
-{% endif %}
 {% assign return = return
   | append: " "
   | append: mins

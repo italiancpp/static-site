@@ -5,6 +5,8 @@ import pathlib
 
 print(os.getcwd())
 
+
+
 olddir = "/Users/fm/Documents/Projects/static-site/jekyll-export/_posts/"
 newdir = "/Users/fm/Documents/Projects/static-site/src/_posts/"
 
