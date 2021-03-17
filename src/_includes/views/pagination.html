@@ -20,7 +20,8 @@
     {%- assign totarticles = totarticles | plus:1 -%}
 
     <li>
-      {%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}
+      <!-- - assign date_format = site.yat.date_format | default: "%b %-d, %Y" - -->
+      {%- assign date_format = "%F" -%}
 
       {% assign article = post.content %}
       {%- include functions.html func='get_reading_time' -%}
@@ -33,8 +34,14 @@
         </a>
       </h2>
       <div class="post-meta">
-        <span class="post-date"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>
+        <span class="post-date"><i class="fa fa-chevron-circle-right"></i> {{ post.date | date: date_format }}</span>
         <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
+        {%- if post.eventdate -%}
+        <span class="left-vsplit"><b class="post-eventdate fa fa-calendar">
+        {{ post.eventdate | slice: 0, 10 | date: "%F" }}
+        </b></span>
+        <!-- calendar-check arrow-right arrow-circle-right arrow-alt-circle-right share chevron-circle-right -->
+        {%- endif -%}
       </div>
       <p class="post-excerpt">
         {{ post.content | strip_html | truncatewords: 50 }}

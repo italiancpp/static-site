@@ -17,17 +17,17 @@ tags:
   People familiar with the new features C++11 brought to the C++ programming language should know what a <a href="https://en.wikipedia.org/wiki/Variadic_template" target="_blank">variadic template</a> is and why they&#8217;re important. Variadic templates can have a variable number of parameters of any type:
 </p>
 
-[snippet]
+
 
 <pre>template &lt;typename... Types&gt; class tuple;</pre>
 
-[/snippet]
+
 
 <p style="text-align: justify;">
   This not only brings type safety to the code but also ensures that all the variadic arguments handling is performed at compile-time. Before their introduction, in order to have a template accepting a variable number of template parameters, programmers were used to write verbose code like:
 </p>
 
-[snippet]
+
 
 <pre>template&lt;typename T0&gt;
 void function( T0 arg0 );
@@ -43,13 +43,13 @@ void function( T0 arg0, T1 arg1, T2 arg2, T3 arg3 );
 
 ...</pre>
 
-[/snippet]
+
 
 <p style="text-align: justify;">
   Template <a href="http://en.cppreference.com/w/cpp/language/parameter_pack" target="_blank">parameter packs</a> went hand-in-hand with variadic templates and together with <a href="http://en.cppreference.com/w/cpp/language/constant_expression" target="_blank">constant expressions</a> they enabled a recursive-like style of coding to create more complex compile-time operations:
 </p>
 
-[compiler]
+
 
 <pre>#include &lt;iostream&gt;
 #include &lt;array&gt;
@@ -64,7 +64,7 @@ template&lt;size_t N1, size_t... I1, size_t N2, size_t... I2&gt;
 // Expansion pack
 constexpr std::array&lt;int, N1+N2&gt; concat(const std::array&lt;int, N1&gt;& a1, 
         const std::array&lt;int, N2&gt;& a2, seq&lt;I1...&gt;, seq&lt;I2...&gt;){
-  return {{ a1[I1]..., a2[I2]... }};
+  return { { a1[I1]..., a2[I2]... } };
 }
 
 template&lt;size_t N1, size_t N2&gt;
@@ -75,8 +75,8 @@ constexpr std::array&lt;int, N1+N2&gt; concat(const std::array&lt;int, N1&gt;& a
 }
 
 int main() {
-    constexpr std::array&lt;int, 3&gt; a1 = {{1,2,3}};
-    constexpr std::array&lt;int, 2&gt; a2 = {{4,5}};
+    constexpr std::array&lt;int, 3&gt; a1 = { {1,2,3} };
+    constexpr std::array&lt;int, 2&gt; a2 = { {4,5} };
 
     constexpr std::array&lt;int,5&gt; res = concat(a1,a2);
     for(int i=0; i&lt;res.size(); ++i)
@@ -85,7 +85,7 @@ int main() {
     return 0;
 }</pre>
 
-[/compiler]
+
 
 <p style="text-align: justify;">
   Exploiting a <a href="http://en.cppreference.com/w/cpp/container/array/operator_at" target="_blank">constexpr overload of the operator[]</a> the code above generates an integer sequence, aggregate-initializes an <em>std::array</em> and concatenates the input arrays at compile time (details of the operations involved are available <a href="http://stackoverflow.com/q/25068481/1938163" target="_blank">at this link</a>).
@@ -99,7 +99,7 @@ int main() {
   These features allowed new ways to exploit templates, anyway parameter packs could only be used and expanded in a strictly-defined series of contexts. For instance, something like the following wasn&#8217;t allowed:
 </p>
 
-[snippet]
+
 
 <pre>template&lt;typename T&gt;
 void printer(T arg) {
@@ -111,13 +111,13 @@ static void function(Args &&... args) {
     (printer(std::forward&lt;Args&gt;(args)) , ...);
 }</pre>
 
-[/snippet]
+
 
 <p style="text-align: justify;">
   Anyway one of those restricted contexts was <a href="http://en.cppreference.com/w/cpp/language/list_initialization" target="_blank">brace-init-lists</a>, therefore workarounds to have parameter packs be expanded were immediately deployed:
 </p>
 
-[snippet]
+
 
 <pre>template&lt;typename T&gt;
 void printer(T arg) {
@@ -132,7 +132,7 @@ static void function(Args &&... args) {
               ( (void) printer(std::forward&lt;Args&gt;(args)), 0) ... };
 }</pre>
 
-[/snippet]
+
 
 * * *
 
@@ -178,7 +178,7 @@ being their respective expansions:
   With fold expressions writing a printer construct becomes straightforward:
 </p>
 
-[compiler]
+
 
 <pre>#include &lt;iostream&gt;
 
@@ -192,7 +192,7 @@ int main() {
      for_each([](auto i) { std::cout &lt;&lt; i &lt;&lt; " "; }, 4, 5, 6); // 4 5 6
 }</pre>
 
-[/compiler]
+
 
 <p style="text-align: justify;">
   The sample above uses fold expressions together with the <a href="http://en.cppreference.com/w/cpp/language/operator_other#Built-in_comma_operator" target="_blank">comma operator</a> to create a simple function that calls the provided lambda per each one of the supplied arguments with <a href="http://stackoverflow.com/q/24732926/1938163" target="_blank">perfect forwarding</a>.
@@ -202,7 +202,7 @@ int main() {
   A caveat relative to the previous example though: unary right fold expressions and unary left fold expressions applied with the comma operator do yield different expressions but their evaluation order remains the same, e.g.
 </p>
 
-[compiler]
+
 
 <pre>#include &lt;iostream&gt;
 #include &lt;memory&gt;
@@ -226,13 +226,13 @@ int main()
      for_each2([](auto i) { std::cout &lt;&lt; i &lt;&lt; " "; }, 4, 5, 6); // 4 5 6
 }</pre>
 
-[/compiler]
+
 
 <p style="text-align: justify;">
   It has to be noted that one of the main reasons fold expressions were accepted as a C++17 proposal is because of their use in <a href="https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)" target="_blank">concepts</a>:
 </p>
 
-[snippet]
+
 
 <pre>template &lt;typename T&gt;
   concept bool Integral = std::is_integral&lt;T&gt;::value;
@@ -244,19 +244,19 @@ template &lt;typename... Ts&gt;
   requires Integral&lt;Ts&gt;... // error: requirement is ill-formed
 void foo(Ts...);</pre>
 
-[/snippet]
+
 
 <p style="text-align: justify;">
   The problem boiled down to the same issue we talked of some paragraphs ago: the parameter pack cannot expand in that context. Fold expressions provide an elegant and effective way to deal with this issue instead of resorting to other <em>constexpr</em> machineries to ensure requirements are met:
 </p>
 
-[snippet]
+
 
 <pre>template&lt;typename... Ts&gt;
   requires (Integral&lt;Ts&gt; && ...)
 void foo(Ts...);</pre>
 
-[/snippet]
+
 
 * * *
 

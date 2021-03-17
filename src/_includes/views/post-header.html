@@ -4,14 +4,20 @@
 
   <p class="post-meta">
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      {%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}
-      <i class="fa fa-calendar"></i> {{ page.date | date: date_format }}
+      {%- assign date_format = "%F" -%}
+      <i class="fa fa-chevron-circle-right"></i> {{ page.date | date: date_format }}
     </time>
 
     {% assign article = page.content %}
     {%- include functions.html func='get_reading_time' -%}
     {% assign reading_time = return %}
     <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
+    {%- if page.eventdate -%}
+    <span class="left-vsplit"><b class="post-eventdate fa fa-calendar">
+    {{ page.eventdate | slice: 0, 10 | date: "%F" }}
+    </b></span>
+    <!-- calendar-check arrow-right arrow-circle-right arrow-alt-circle-right share chevron-circle-right -->
+    {%- endif -%}
   </p>
 
   {%- if page.tags.size > 0 -%}
@@ -23,3 +29,40 @@
   {%- endif -%}
 
 </header>
+
+
+{%- if page.eventdate -%}
+<table>
+  <tr>
+    <th width="50%"><h2>
+        {%- if page.eventlocation contains "http" -%}
+        <span class="fa fa-link"></span>
+        {%- else -%}
+        <span class="fa fa-map-signs"></span>
+        {%- endif -%}
+      &nbsp;
+      Dove</h2>
+    </th>
+    <th width="50%"><h2><span class="fa fa-calendar"></span>&nbsp;Quando</h2></th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>
+        {%- if page.eventlocation contains "http" -%}
+        <a href="{{ page.eventlocation }}">Online</a>
+        {%- else -%}
+        <a href="https://www.google.com/maps/place/{{ page.eventlocation | replace: " ", "+"}}">{{ page.eventlocation }}</a>
+        {%- endif -%}
+      </h3>
+    </td>
+    <td width="50%">
+      <h3>
+        Dal: {{ page.eventdate | slice: 0, 10 | date: "%F" }} h{{ page.eventdate | slice: 11, 8 }}
+        <br/>
+        Al: {{ page.eventend | slice: 0, 10 | date: "%F" }} h{{ page.eventend | slice: 11, 8 }}
+      </h3>
+    </td>
+  </tr>
+</table>
+{%- endif -%}
+

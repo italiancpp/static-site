@@ -329,6 +329,24 @@ html {
     }
   }
 
+  .post-eventdate {
+    color: #2e2eaf;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: color #0000ff;
+
+    &:not(:first-child) {
+      margin-left: 8px;
+    }
+
+    &:hover {
+      color: #777;
+    }
+  }
+
   .paginator {
     text-align: center;
 
