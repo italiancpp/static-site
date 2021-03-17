@@ -32,30 +32,43 @@
 
 
 {%- if page.eventdate -%}
-<table>
+<header class="post-header">
+<table class="eventtable">
   <tr>
-    <th width="50%"><h2>
+    <th width="25%" style="text-align:left">
         {%- if page.eventlocation contains "http" -%}
         <span class="fa fa-link"></span>
         {%- else -%}
         <span class="fa fa-map-signs"></span>
         {%- endif -%}
       &nbsp;
-      Dove</h2>
+      Dove
     </th>
-    <th width="50%"><h2><span class="fa fa-calendar"></span>&nbsp;Quando</h2></th>
+    <th width="25%">
+      <b><span class="eventbutton">
+      {%- if page.eventlocation contains "http" -%}
+      <a href="{{ page.eventlocation }}">Link</a>
+      {%- else -%}
+      <a href="https://www.google.com/maps/place/{{ page.eventlocation | replace: " ", "+"}}">Mappa</a>
+      {%- endif -%}
+      </span></b>
+    </th>
+    <th width="25%" style="text-align:left">
+      <span class="fa fa-calendar"></span>&nbsp;Quando
+    </th>
+    <th width="25%"></th>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <h3>
         {%- if page.eventlocation contains "http" -%}
-        <a href="{{ page.eventlocation }}">Online</a>
+        Online
         {%- else -%}
-        <a href="https://www.google.com/maps/place/{{ page.eventlocation | replace: " ", "+"}}">{{ page.eventlocation }}</a>
+        {{ page.eventlocation }}
         {%- endif -%}
       </h3>
     </td>
-    <td width="50%">
+    <td colspan="2" width="50%">
       <h3>
         Dal: {{ page.eventdate | slice: 0, 10 | date: "%F" }} h{{ page.eventdate | slice: 11, 8 }}
         <br/>
@@ -64,5 +77,5 @@
     </td>
   </tr>
 </table>
+</header>
 {%- endif -%}
-
